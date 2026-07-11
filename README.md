@@ -16,7 +16,8 @@
   <a href="https://REPLACE_WITH_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@REPLACE_WITH_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-Tech2007--g5m-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-jerrinanto2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://medium.com/@REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
@@ -26,6 +27,37 @@
 </div>
 
 <br/>
+
+<!-- ================= VISUAL SNAPSHOT ================= -->
+## ✨ Profile Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Build-AI%20Products-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="Build AI Products"/>
+<br/><strong>AI-first builder</strong>
+<br/><sub>Turning ideas into intelligent products</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Ship-Full%20Stack-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship Full Stack"/>
+<br/><strong>Full-stack shipping</strong>
+<br/><sub>FastAPI backends, Flutter apps, cloud workflows</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Create-Tech%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Create Tech Content"/>
+<br/><strong>Learning in public</strong>
+<br/><sub>Sharing the journey on YouTube & Instagram</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-6d44a1c3-2d53-4a95-8d4f-dbb1c8f0d5c8.gif" width="100%" alt="Animated neon divider"/>
+
+</div>
+
+---
 
 <!-- ================= INTRODUCTION ================= -->
 ## 👋 About Me
@@ -44,6 +76,19 @@ Most of what I build lives at the intersection of:
 **Vision:** Build a startup where the product, not the pitch deck, does the convincing.
 
 > Build More. Learn Faster. Solve Bigger Problems.
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    Idea[💡 Problem] --> Model[🤖 AI Model]
+    Model --> API[⚡ FastAPI Backend]
+    API --> App[📱 Flutter App]
+    App --> Cloud[☁️ Cloud Deployment]
+    Cloud --> Users[🌍 Real Users]
+```
+
+</div>
 
 ---
 
@@ -319,6 +364,13 @@ I treat engineering as a craft, not a checklist. That means:
 ## 🤝 Let's Collaborate
 
 I'm always open to connecting with people building interesting things. If something here resonates — reach out, let's talk.
+
+<div align="center">
+
+<a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
+<a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
+
+</div>
 
 ---
 

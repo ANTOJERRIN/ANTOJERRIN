@@ -12,10 +12,9 @@
 
 <!-- ================= SOCIAL / CONNECT BADGES ================= -->
 <p>
-  <a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://REPLACE_WITH_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-Tech2007--g5m-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-jerrinanto2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://medium.com/@REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>

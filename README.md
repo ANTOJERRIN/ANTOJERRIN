@@ -102,7 +102,7 @@ flowchart LR
 
 **Programming Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 **Frameworks**
 <br/>
@@ -169,104 +169,61 @@ flowchart LR
 <!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-<!--
-  NOTE TO SELF: Paste real details for each project below —
-  repo URL, live demo link, 2-3 line description, and confirm tech stack.
-  Replace every REPLACE_WITH_... placeholder.
--->
+### 🌊 AQUA-ETHIC
 
-### ❤️ AI Heart Risk Prediction
+**Water-quality monitoring + data integrity platform** built for the **DECODE SIH Hackathon**. Combines IoT telemetry, an Express.js backend, SQLite/Sequelize persistence, SHA-256 hashing, Web3 blockchain anchoring, verification APIs, and a frontend client. The pipeline is designed so a water-quality observation can be traced from sensing to a verifiable blockchain record.
 
-<table>
-<tr>
-<td width="70%">
+**Stack:** ESP32 • Node.js • Express.js • SQLite • Sequelize • Web3.js • Solidity • Hardhat • Flutter/React
 
-**Description:** _REPLACE_WITH_DESCRIPTION — what does it predict, what model/data, what problem does it solve?_
-
-**Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <!-- adjust badges to match real stack -->
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
-
-</td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN/AQUA-ETHIC)
 
 ---
 
-### 👴 SilverCare AI
+### ❤️ Cardio.AI / WithLove
 
-<table>
-<tr>
-<td width="70%">
+AI-assisted heart-health experience focused on risk assessment and patient support. Includes a **28-parameter health input flow**, risk-result visualization, AI chat, and doctor-connect workflow, with an emphasis on making health insights understandable and actionable.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — who is this for, what does it monitor/assist with?_
+**Stack:** Flutter • AI/ML • Mobile UI • Backend/API integration
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
+---
 
-</td>
-</tr>
-</table>
+### 👴 SilverCare / SilverBot
+
+AI companion concept for elderly users, combining **voice interaction, medicine reminders, location/map assistance, companion mode, and AI-powered support** into one accessible experience.
+
+**Stack:** AI • Voice interfaces • Flutter/Web UI • Firebase • Maps
+
+[![Live App](https://img.shields.io/badge/Live%20App-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvercare-guardian-66.lovable.app/)
 
 ---
 
 ### 🍔 QuickNest
 
-<table>
-<tr>
-<td width="70%">
+Campus-focused product concept combining **delivery/discovery, sports-booking discounts, and mood-based food recommendations** to make student life more convenient through one app experience.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — food delivery? ordering platform? what's the core flow?_
+**Stack:** Full-stack web/app development • APIs • Product design
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
-
-</td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
 
 ---
 
 ### 📚 EvolveED.AI
 
-<table>
-<tr>
-<td width="70%">
+AI-powered learning concept that brings together **YouTube-based learning, summaries, and an AI tutor/chat experience** so learners can move from consuming content to actively understanding it.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — adaptive learning? edtech platform? who's the target user?_
+**Stack:** AI • LLMs • Web Development • APIs
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
-
-</td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
 
 ---
 
 ### 🚍 JFOODS
 
-<table>
-<tr>
-<td width="70%">
+Startup initiative focused on practical food-service solutions, with work connected to use cases involving **Central Railways and NHAI bus operations**. The project represents my early experience thinking beyond a codebase toward real operational problems and product delivery.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — what does this do, what's the use case?_
-
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
-
-</td>
-</tr>
-</table>
+**Focus:** Startup building • Food-tech • Product execution
 
 ---
 
@@ -293,12 +250,15 @@ I'm still early. I don't have a funded company or a product with thousands of us
 
 | Category | Highlight |
 |---|---|
-| 🧠 AI Projects | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🏁 Hackathons | _REPLACE_WITH_ACHIEVEMENT_ |
-| ☁️ Cloud | _REPLACE_WITH_ACHIEVEMENT_ |
-| 📚 Learning | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🤝 Community | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🧭 Leadership | _REPLACE_WITH_ACHIEVEMENT_ |
+| 🥇 Recognition | **First Prize — Short Film Making** |
+| 🏅 Recognition | **Mr. Fresher** title recipient |
+| 🏁 Hackathons | Selected among the **Top 100 teams** in a hackathon; participated in Google hackathon initiatives, **Namma Hack 2026, AI Rena 2.0**, and 24-hour hackathons |
+| 🌊 Project Showcase | Built and shipped **AQUA-ETHIC**, an end-to-end IoT + backend + blockchain water-quality MVP for the **DECODE SIH Hackathon** |
+| ☁️ Cloud & AI | Earned **Google Cloud skill badges** and completed hands-on GenAI/cloud learning programs |
+| 🌱 Open Source | Selected as a contributor for **GirlScript Summer of Code (GSSoC)** |
+| 💼 Experience | Built experience through **GenAI / AI development internships and technical roles**, alongside academic and project work |
+| 🤝 Community | Built and contributed to technical communities around **AI, cloud, agentic AI, and startup-oriented engineering** |
+| 🧭 Leadership | Helped organize and lead student-focused technical initiatives, collaborations, workshops, and product-building efforts |
 
 ---
 

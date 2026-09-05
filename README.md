@@ -1,304 +1,335 @@
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=A%20Jerrin%20Anto&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:111827,75:312E81,100:0F172A&height=240&section=header&text=A%20Jerrin%20Anto&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="A Jerrin Anto header"/>
 
-<!-- ================= ANIMATED TYPING HEADER ================= -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Startup+Builder;Python+Developer;Flutter+Developer;Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Startup+Builder;Python+Developer;Flutter+Developer;Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=650&height=55&color=C4B5FD&vCenter=true&size=24&pause=1200" alt="Typing introduction"/>
 
 <br/>
 
-<!-- ================= SOCIAL / CONNECT BADGES ================= -->
-<p>
-  <a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-Tech2007--g5m-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-jerrinanto2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://medium.com/@REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
+<a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+<a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+<a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube"/></a>
+<a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
+<a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<!-- ================= VISUAL SNAPSHOT ================= -->
-## ✨ Profile Snapshot
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Build-AI%20Products-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="Build AI Products"/>
-<br/><strong>AI-first builder</strong>
-<br/><sub>Turning ideas into intelligent products</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Ship-Full%20Stack-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship Full Stack"/>
-<br/><strong>Full-stack shipping</strong>
-<br/><sub>FastAPI backends, Flutter apps, cloud workflows</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Create-Tech%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Create Tech Content"/>
-<br/><strong>Learning in public</strong>
-<br/><sub>Sharing the journey on YouTube & Instagram</sub>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-6d44a1c3-2d53-4a95-8d4f-dbb1c8f0d5c8.gif" width="100%" alt="Animated neon divider"/>
+<img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-<!-- ================= INTRODUCTION ================= -->
+## ✦ Profile Snapshot
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/01-BUILD_AI_PRODUCTS-312E81?style=for-the-badge&logo=sparkles&logoColor=white" alt="Build AI products"/>
+<br/><br/><strong>AI-first builder</strong><br/>
+<sub>Turning ideas into useful intelligent products.</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/02-SHIP_FULL_STACK-1F2937?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship full stack"/>
+<br/><br/><strong>Full-stack shipping</strong><br/>
+<sub>From API and database to app and deployment.</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/03-LEARN_IN_PUBLIC-334155?style=for-the-badge&logo=youtube&logoColor=white" alt="Learn in public"/>
+<br/><br/><strong>Always learning</strong><br/>
+<sub>Projects, communities, hackathons and content.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
+
+> **Build More. Learn Faster. Solve Bigger Problems.**
+
+---
+
 ## 👋 About Me
 
-I'm **A Jerrin Anto** — a Computer Science (AI & Machine Learning) undergraduate who builds products at the intersection of **AI, backend engineering, and mobile development.** I care less about chasing trends and more about shipping things that actually solve a problem someone has.
+I'm **A Jerrin Anto** — a Computer Science (AI & Machine Learning) undergraduate building products at the intersection of **AI, backend engineering, cloud, and mobile development**.
 
-Most of what I build lives at the intersection of:
-
-- 🤖 **AI & Machine Learning** — turning data into decisions
-- ⚡ **FastAPI / Backend Systems** — the engine room nobody sees but everyone depends on
-- 📱 **Flutter** — taking that engine and putting it in someone's hand
-- ☁️ **Cloud & DevOps** — making sure it doesn't fall over at 2am
-
-**Currently:** Building, learning, and shipping small products end-to-end — model to API to app.
-**Mission:** Solve real problems with AI, not just demo them.
-**Vision:** Build a startup where the product, not the pitch deck, does the convincing.
-
-> Build More. Learn Faster. Solve Bigger Problems.
+I care less about chasing trends and more about turning an idea into something people can actually use.
 
 <div align="center">
-
-```mermaid
-flowchart LR
-    Idea[💡 Problem] --> Model[🤖 AI Model]
-    Model --> API[⚡ FastAPI Backend]
-    API --> App[📱 Flutter App]
-    App --> Cloud[☁️ Cloud Deployment]
-    Cloud --> Users[🌍 Real Users]
-```
-
+<table>
+<tr>
+<td>🤖 <strong>AI & ML</strong><br/><sub>Models → decisions</sub></td>
+<td>⚡ <strong>Backend</strong><br/><sub>APIs → systems</sub></td>
+<td>📱 <strong>Flutter</strong><br/><sub>Systems → products</sub></td>
+<td>☁️ <strong>Cloud</strong><br/><sub>Products → scale</sub></td>
+</tr>
+</table>
 </div>
+
+**Mission:** Solve real problems with AI, not just demo them.
+
+**Vision:** Build a startup where the product, not the pitch deck, does the convincing.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
+<div align="center">
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
-**Technologies**
+### Languages
 
-**Programming Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white"/>
 
-**Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+### Frameworks & Platforms
 
-**AI & Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=white"/>
 
-**Cloud & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Antigravity-111827?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</td>
+<td valign="top" width="50%">
+
+### AI & Data
+
+<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white"/>
+
+### Cloud & Engineering
+
+<img src="https://img.shields.io/badge/Google_Cloud-111827?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
 ## 🎯 Current Focus
 
-```text
-🔭 Learning    → Advanced system design & production ML pipelines
-🛠️ Building    → AI-powered full-stack products (FastAPI + Flutter)
-🔍 Exploring   → AI agents & multi-platform app architecture
-📈 Improving   → Clean architecture, testing discipline, deployment workflows
-🌱 Growing     → From "writes code" to "ships systems"
-```
+<div align="center">
+<table>
+<tr><td>🔭</td><td><strong>Learning</strong></td><td>Advanced system design & production ML pipelines</td></tr>
+<tr><td>🛠️</td><td><strong>Building</strong></td><td>AI-powered full-stack products with FastAPI + Flutter</td></tr>
+<tr><td>🔍</td><td><strong>Exploring</strong></td><td>AI agents & multi-platform app architecture</td></tr>
+<tr><td>📈</td><td><strong>Improving</strong></td><td>Clean architecture, testing and deployment workflows</td></tr>
+<tr><td>🌱</td><td><strong>Growing</strong></td><td>From “writes code” to “ships systems”</td></tr>
+</table>
+</div>
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANTOJERRIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANTOJERRIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANTOJERRIN&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANTOJERRIN&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANTOJERRIN&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ANTOJERRIN&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANTOJERRIN&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ANTOJERRIN&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-<!-- ================= LEETCODE STATS ================= -->
 ## 🧩 LeetCode Stats
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/antojerrin?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-
+<img src="https://leetcard.jacoblin.cool/antojerrin?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats"/>
 </div>
-
-> 📌 This card pulls live data from [leetcode.com/u/antojerrin](https://leetcode.com/u/antojerrin/) — problems solved, ranking, and acceptance rate update automatically. No manual upkeep needed.
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌊 AQUA-ETHIC
 
-**Water-quality monitoring + data integrity platform** built for the **DECODE SIH Hackathon**. Combines IoT telemetry, an Express.js backend, SQLite/Sequelize persistence, SHA-256 hashing, Web3 blockchain anchoring, verification APIs, and a frontend client. The pipeline is designed so a water-quality observation can be traced from sensing to a verifiable blockchain record.
+**IoT + Blockchain Water Quality**
 
-**Stack:** ESP32 • Node.js • Express.js • SQLite • Sequelize • Web3.js • Solidity • Hardhat • Flutter/React
+An end-to-end water-quality monitoring and data-integrity platform built for the **DECODE SIH Hackathon**. Sensor telemetry moves through an API, gets persisted locally, hashed with SHA-256 and anchored for blockchain verification.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN/AQUA-ETHIC)
+`ESP32` `Node.js` `Express` `SQLite` `Sequelize` `Web3.js` `Solidity` `Hardhat`
 
----
+<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" alt="AQUA-ETHIC repository"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### ❤️ Cardio.AI / WithLove
 
-AI-assisted heart-health experience focused on risk assessment and patient support. Includes a **28-parameter health input flow**, risk-result visualization, AI chat, and doctor-connect workflow, with an emphasis on making health insights understandable and actionable.
+**AI-Assisted Heart Health**
 
-**Stack:** Flutter • AI/ML • Mobile UI • Backend/API integration
+A health-focused experience built around risk assessment and patient support, featuring a **28-parameter health input flow**, risk visualization, AI chat and doctor-connect workflow.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
+`Flutter` `AI/ML` `Mobile UI` `API Integration`
 
----
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/EXPLORE_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cardio AI work"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 👴 SilverCare / SilverBot
 
-AI companion concept for elderly users, combining **voice interaction, medicine reminders, location/map assistance, companion mode, and AI-powered support** into one accessible experience.
+**AI Companion for Elderly Users**
 
-**Stack:** AI • Voice interfaces • Flutter/Web UI • Firebase • Maps
+An AI companion concept combining **voice interaction, medicine reminders, location/map assistance, companion mode and AI-powered support** in an accessible experience.
 
-[![Live App](https://img.shields.io/badge/Live%20App-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvercare-guardian-66.lovable.app/)
+`AI` `Voice` `Flutter/Web` `Firebase` `Maps`
 
----
+<a href="https://silvercare-guardian-66.lovable.app/"><img src="https://img.shields.io/badge/LIVE_APP-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SilverCare live app"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🍔 QuickNest
 
-Campus-focused product concept combining **delivery/discovery, sports-booking discounts, and mood-based food recommendations** to make student life more convenient through one app experience.
+**Campus Convenience Platform**
 
-**Stack:** Full-stack web/app development • APIs • Product design
+A campus-focused product concept combining **delivery/discovery, sports-booking discounts and mood-based food recommendations** into one student experience.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
+`Product Design` `APIs` `Full Stack`
 
----
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/EXPLORE_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore QuickNest work"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 EvolveED.AI
 
-AI-powered learning concept that brings together **YouTube-based learning, summaries, and an AI tutor/chat experience** so learners can move from consuming content to actively understanding it.
+**AI-Powered Learning**
 
-**Stack:** AI • LLMs • Web Development • APIs
+A learning concept connecting **YouTube content, summaries and an AI tutor/chat experience** to move learners from passive consumption toward active understanding.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANTOJERRIN)
+`AI` `LLMs` `Web` `APIs`
 
----
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/EXPLORE_WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore EvolveED AI work"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚍 JFOODS
 
-Startup initiative focused on practical food-service solutions, with work connected to use cases involving **Central Railways and NHAI bus operations**. The project represents my early experience thinking beyond a codebase toward real operational problems and product delivery.
+**Startup & Food-Tech Initiative**
 
-**Focus:** Startup building • Food-tech • Product execution
+An early startup initiative focused on practical food-service problems, including work connected to **Central Railways and NHAI bus operations**.
+
+`Startup` `Food-Tech` `Product Execution`
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- ================= STARTUP JOURNEY ================= -->
 ## 🌱 Startup Journey
 
-I didn't start with a business plan — I started by noticing problems worth solving and trying to build my way into a solution. Each project on this profile is part of that process: a real attempt at something useful, not a polished pitch.
+I didn't start with a business plan — I started by noticing problems worth solving and trying to build my way into a solution.
 
-I'm still early. I don't have a funded company or a product with thousands of users — what I have is a habit of shipping, getting feedback, and rebuilding better. That habit is the actual asset.
+Each project is part of that process: a real attempt at something useful, not just a polished pitch. I'm still early, but the habit is simple: **ship → learn → get feedback → rebuild better.**
 
 ---
 
-<!-- ================= OPEN SOURCE JOURNEY ================= -->
 ## 🌍 Open Source Journey
 
 - 🔰 Learning to contribute meaningfully — not just chasing PR counts
-- 🤝 Believe the best way to learn a codebase is to fix something small in it first
+- 🤝 Believing the best way to learn a codebase is to fix something small in it first
 - 📦 Long-term goal: maintain or co-maintain a project people actually depend on
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements
 
-| Category | Highlight |
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><strong>🥇</strong><br/>First Prize<br/><sub>Short Film Making</sub></td>
+<td align="center" width="25%"><strong>🏅</strong><br/>Mr. Fresher<br/><sub>Recognition</sub></td>
+<td align="center" width="25%"><strong>🏁</strong><br/>Top 100<br/><sub>Hackathon Selection</sub></td>
+<td align="center" width="25%"><strong>🌱</strong><br/>GSSoC<br/><sub>Contributor</sub></td>
+</tr>
+</table>
+</div>
+
+| Area | Highlight |
 |---|---|
-| 🥇 Recognition | **First Prize — Short Film Making** |
-| 🏅 Recognition | **Mr. Fresher** title recipient |
-| 🏁 Hackathons | Selected among the **Top 100 teams** in a hackathon; participated in Google hackathon initiatives, **Namma Hack 2026, AI Rena 2.0**, and 24-hour hackathons |
-| 🌊 Project Showcase | Built and shipped **AQUA-ETHIC**, an end-to-end IoT + backend + blockchain water-quality MVP for the **DECODE SIH Hackathon** |
-| ☁️ Cloud & AI | Earned **Google Cloud skill badges** and completed hands-on GenAI/cloud learning programs |
-| 🌱 Open Source | Selected as a contributor for **GirlScript Summer of Code (GSSoC)** |
-| 💼 Experience | Built experience through **GenAI / AI development internships and technical roles**, alongside academic and project work |
-| 🤝 Community | Built and contributed to technical communities around **AI, cloud, agentic AI, and startup-oriented engineering** |
-| 🧭 Leadership | Helped organize and lead student-focused technical initiatives, collaborations, workshops, and product-building efforts |
+| 🏁 **Hackathons** | Participated in Google hackathon initiatives, **Namma Hack 2026, AI Rena 2.0** and 24-hour hackathons; selected among the **Top 100 teams** in a hackathon. |
+| 🌊 **Project Showcase** | Built and shipped **AQUA-ETHIC**, an end-to-end IoT + backend + blockchain water-quality MVP for the **DECODE SIH Hackathon**. |
+| ☁️ **Cloud & AI** | Earned **Google Cloud skill badges** and completed hands-on GenAI/cloud learning programs. |
+| 🌱 **Open Source** | Selected as a contributor for **GirlScript Summer of Code (GSSoC)**. |
+| 💼 **Experience** | Built experience through **GenAI / AI development internships and technical roles** alongside academic and project work. |
+| 🤝 **Community** | Built and contributed to technical communities around **AI, cloud, agentic AI and startup-oriented engineering**. |
+| 🧭 **Leadership** | Helped organize and lead student-focused technical initiatives, collaborations, workshops and product-building efforts. |
 
 ---
 
-<!-- ================= CODING PHILOSOPHY ================= -->
 ## 💭 Coding Philosophy
 
-> "Code that isn't understood is just borrowed — I build to own what I ship."
+> **“Code that isn't understood is just borrowed — I build to own what I ship.”**
 
 ---
 
-<!-- ================= RANDOM DEV QUOTE ================= -->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote"/>
 </div>
 
 ---
 
-<!-- ================= FUN FACTS ================= -->
 ## ⚡ Fun Facts
 
-- 🌙 Most of my best debugging happens after midnight
-- 🧩 I'd rather understand *why* code breaks than just fix it and move on
-- ☁️ I have a habit of overengineering side projects into "platforms"
-- 📐 I sketch system architecture before I write a single line of code
+<div align="center">
+<table>
+<tr>
+<td>🌙 Late-night debugging</td>
+<td>🧩 Understand why it breaks</td>
+<td>☁️ Side projects become platforms</td>
+<td>📐 Architecture before code</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- ================= DEVELOPER MINDSET ================= -->
 ## 🧠 Developer Mindset
 
-I treat engineering as a craft, not a checklist. That means:
-
-- **Understand before you build** — copy-pasted code is borrowed risk
-- **Ship small, ship often** — momentum beats perfection
-- **Design for the next person** — including future me
-- **Measure, don't guess** — data over assumptions, always
+<div align="center">
+<table>
+<tr>
+<td><strong>Understand</strong><br/><sub>before you build</sub></td>
+<td><strong>Ship</strong><br/><sub>small, ship often</sub></td>
+<td><strong>Design</strong><br/><sub>for the next person</sub></td>
+<td><strong>Measure</strong><br/><sub>don't guess</sub></td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- ================= ROADMAP ================= -->
 ## 🗺️ Roadmap
 
 ```text
@@ -310,25 +341,22 @@ I treat engineering as a craft, not a checklist. That means:
 
 ---
 
-<!-- ================= SUPPORT ================= -->
 ## 🤝 Let's Collaborate
 
-I'm always open to connecting with people building interesting things. If something here resonates — reach out, let's talk.
+I'm always open to connecting with people building interesting things. If something here resonates — **reach out, let's talk.**
 
 <div align="center">
-
-<a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
-<a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
-
+<a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/WATCH_ON_YOUTUBE-111827?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/jerrinanto2007/?__pwa=1#"><img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:080B16&height=130&section=footer" alt="Footer wave"/>
 
-**Thanks for stopping by — now go build something.**
+### Thanks for stopping by — now go build something. 🚀
 
 </div>

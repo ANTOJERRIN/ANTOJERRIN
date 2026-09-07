@@ -91,7 +91,7 @@ I like taking an idea from **problem → architecture → code → product** rat
 
 ### Development / Cloud
 
-<img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Google_Cloud-050505?style=for-the-badge&logo=googlecloud&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonaws&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF4D4D"/>
+<img src="https://img.shields.io/badge/Flutter-050505?style=for-the-badge&logo=flutter&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Google_Cloud-050505?style=for-the-badge&logo=googlecloud&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonaws&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=FF4D4D"/> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF4D4D"/>
 
 </div>
 

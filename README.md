@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:120000,100:8B0000&height=250&section=header&text=A%20Jerrin%20Anto&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="A Jerrin Anto"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,16:ff7a00,33:fff000,50:00ff85,66:00d9ff,83:6a00ff,100:ff00c8&height=250&section=header&text=A%20Jerrin%20Anto&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="A Jerrin Anto"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Startup+Builder;Python+Developer;Flutter+Developer;Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver&font=Fira+Code&center=true&width=650&height=55&color=FF4D4D&vCenter=true&size=24&pause=1200" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Startup+Builder;Python+Developer;Flutter+Developer;Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver&font=Fira+Code&center=true&width=650&height=55&color=00D9FF&vCenter=true&size=24&pause=1200" alt="Typing introduction"/>
 
 <br/>
 
@@ -297,7 +297,7 @@ The pattern is simple:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:120000,100:000000&height=130&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,17:6a00ff,34:00d9ff,51:00ff85,68:fff000,84:ff7a00,100:ff0000&height=130&section=footer" alt="RGB spectrum footer"/>
 
 ### **Thanks for stopping by — now go build something. 🟥**
 

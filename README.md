@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=A%20Jerrin%20Anto&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00d9ff&height=220&section=header&text=A%20Jerrin%20Anto&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=17&animation=fadeIn" alt="A Jerrin Anto Header Banner"/>
 
-<!-- ================= ANIMATED TYPING HEADER ================= -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Startup+Builder;Python+Developer;Flutter+Developer;Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
-</a>
+<!-- Dynamic Typing Introduction -->
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Engineer;Full+Stack+%26+Cloud+Builder;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Startup+Founder+%26+Problem+Solver&font=Fira+Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&size=22&pause=1200" alt="Animated Typing Introduction"/>
 
 <br/>
 
@@ -21,82 +19,153 @@
   <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/><br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= INTRODUCTION ================= -->
-## 👋 About Me
+<div align="center">
 
-I'm **A Jerrin Anto** — a Computer Science (AI & Machine Learning) undergraduate who builds products at the intersection of **AI, backend engineering, and mobile development.** I care less about chasing trends and more about shipping things that actually solve a problem someone has.
+### ⚡ ARCHITECTURE • INTELLIGENCE • SCALE
 
-Most of what I build lives at the intersection of:
+<table>
+<tr>
+<td align="center" width="20%"><br/>🤖<br/><strong>AI & ML</strong><br/><sub>PyTorch • Agentic AI • Vision</sub><br/><br/></td>
+<td align="center" width="20%"><br/>⚡<br/><strong>FULL STACK</strong><br/><sub>FastAPI • Next.js • React</sub><br/><br/></td>
+<td align="center" width="20%"><br/>☁️<br/><strong>CLOUD</strong><br/><sub>Google Cloud • AWS • Deployments</sub><br/><br/></td>
+<td align="center" width="20%"><br/>📱<br/><strong>MOBILE & IoT</strong><br/><sub>Flutter • Android • ESP32 • Arduino</sub><br/><br/></td>
+<td align="center" width="20%"><br/>🚀<br/><strong>STARTUPS</strong><br/><sub>F1 Forge • NextStep • Production</sub><br/><br/></td>
+</tr>
+</table>
 
-- 🤖 **AI & Machine Learning** — turning data into decisions
-- ⚡ **FastAPI / Backend Systems** — the engine room nobody sees but everyone depends on
-- 📱 **Flutter** — taking that engine and putting it in someone's hand
-- ☁️ **Cloud & DevOps** — making sure it doesn't fall over at 2am
+</div>
 
-**Currently:** Building, learning, and shipping small products end-to-end — model to API to app.
-**Mission:** Solve real problems with AI, not just demo them.
-**Vision:** Build a startup where the product, not the pitch deck, does the convincing.
-
-> Build More. Learn Faster. Solve Bigger Problems.
+> *"Code that isn't understood is just borrowed — I build to own what I ship."*
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 👋 About Me
+
+I'm **A Jerrin Anto (Anto)** — a **second-year B.Tech CSE (AI & Machine Learning)** student, full-stack software engineer, and entrepreneurial startup builder. I specialize in designing and deploying end-to-end intelligent systems that connect robust machine learning pipelines with high-throughput backends, resilient cloud architecture, and intuitive cross-platform interfaces.
+
+Rather than stopping at prototypes, I execute the full lifecycle: **Problem Definition → System Architecture → Production Code → Deployed Product**. Recently, I have been doubling down on cloud computing infrastructure, scalable backend microservices, and autonomous agentic AI workflows.
+
+Beyond pure software, I bring tangible business acumen to the table:
+- 🏛️ **Founder at F1 Forge**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
+- 🚀 **Startup Builder at NextStep Network**: Co-developer architecting and validating product MVPs.
+- 💼 **Founder of JFOODS**: Food-tech venture addressing high-volume transit catering logistics across Central Railways and NHAI bus operations.
+- 🥗 **Agri-Tech Enterprise**: Bootstrapped, profitable venture producing and distributing **dehydrated vegetable chips**.
+
+<div align="center">
+
+| 🎓 Education | 📍 Roles & Status | 🛠️ Primary Stack | 💼 Experience |
+|---|---|---|---|
+| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ F1 Forge**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scalasoft, HighDevs & Gigni**<br/>GSSoC Contributor |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **Programming Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+**Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
+**AI & Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-**Frameworks & Libraries**
+**Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Antigravity-111827?style=flat-square&logo=google&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+### Languages
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=00D9FF" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=00D9FF" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=00D9FF" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=00D9FF" alt="Dart"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00D9FF" alt="MySQL"/>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+### AI / ML & Data Science
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=00D9FF" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=00D9FF" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=00D9FF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=00D9FF" alt="Pandas"/>
 
-**AI / Machine Learning**
+### Backend & Frameworks
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=00D9FF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=00D9FF" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=00D9FF" alt="Supabase"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+### Mobile & IoT
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=00D9FF" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=00D9FF" alt="Android"/>
+<img src="https://img.shields.io/badge/ESP32_IoT-0F172A?style=for-the-badge&logo=espressif&logoColor=00D9FF" alt="ESP32 IoT"/>
+<img src="https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00D9FF" alt="Arduino"/>
 
-</td>
-<td valign="top" width="50%">
+### Cloud & DevOps / Platforms
+<img src="https://img.shields.io/badge/Google_Cloud-0F172A?style=for-the-badge&logo=googlecloud&logoColor=00D9FF" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-0F172A?style=for-the-badge&logo=gitlab&logoColor=00D9FF" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=00D9FF" alt="Render"/>
+<img src="https://img.shields.io/badge/Bolt.new-0F172A?style=for-the-badge&logo=lightning&logoColor=00D9FF" alt="Bolt.new"/>
+<img src="https://img.shields.io/badge/Emergent-0F172A?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="Emergent"/>
 
-**Cloud, DevOps & Tools**
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= CURRENT FOCUS ================= -->
-## 🎯 Current Focus
-
-```text
-🔭 Learning    → Advanced system design & production ML pipelines
-🛠️ Building    → AI-powered full-stack products (FastAPI + Flutter)
-🔍 Exploring   → AI agents & multi-platform app architecture
-📈 Improving   → Clean architecture, testing discipline, deployment workflows
-🌱 Growing     → From "writes code" to "ships systems"
-```
+</div>
 
 ---
 
@@ -131,230 +200,243 @@ Most of what I build lives at the intersection of:
 <!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
 
+### 🧩 LeetCode Stats & Activity Heatmap
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANTOJERRIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<a href="https://leetcode.com/u/antojerrin/">
+  <img width="100%" src="https://leetcard.jacoblin.cool/antojerrin.svg?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats & Activity Heatmap for antojerrin"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANTOJERRIN&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <sub>🔥 Real-time problem solving stats & submission activity heatmap for <a href="https://leetcode.com/u/antojerrin/"><b>@antojerrin</b></a> on LeetCode</sub>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANTOJERRIN&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ANTOJERRIN&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<br/>
+
+### 🐙 Most Used Languages
+
+<div align="center">
+
+<a href="https://github.com/ANTOJERRIN">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&bg_color=0f172a&title_color=00d9ff&text_color=94a3b8&border_color=1e293b" alt="Top Languages Used"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ================= LEETCODE STATS ================= -->
-## 🧩 LeetCode Stats
+## 🚀 Shipped & Featured Projects
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/antojerrin?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
-
-> 📌 This card pulls live data from [leetcode.com/u/antojerrin](https://leetcode.com/u/antojerrin/) — problems solved, ranking, and acceptance rate update automatically. No manual upkeep needed.
-
----
-
-<!-- ================= FEATURED PROJECTS ================= -->
-## 🚀 Featured Projects
-
-<!--
-  NOTE TO SELF: Paste real details for each project below —
-  repo URL, live demo link, 2-3 line description, and confirm tech stack.
-  Replace every REPLACE_WITH_... placeholder.
--->
-
-### ❤️ AI Heart Risk Prediction
-
 <table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-**Description:** _REPLACE_WITH_DESCRIPTION — what does it predict, what model/data, what problem does it solve?_
+### 🌊 AQUA-ETHIC
+**IoT × Blockchain × Water Quality Platform**
 
-**Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <!-- adjust badges to match real stack -->
+Water-quality monitoring and cryptographic verification platform engineered for the **DECODE SIH Hackathon (Grand Finale Top 50)**. Integrates hardware sensing with tamper-proof blockchain consensus.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
+- Real-time water parameter telemetry via ESP32 microcontrollers
+- Tamper-proof sensor hashing recorded via Solidity smart contracts
+- Cryptographic audit trail ensuring immutable public water safety
+
+`ESP32` `Node.js` `Web3.js` `Solidity` `Hardhat` `SQLite`
+
+<br/>
+<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View Repository"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚑 LifeLine & LifeLine Backend
+**Emergency Medical Response & Health Coordination**
+
+Full-stack emergency healthcare coordination platform connecting emergency responders, hospitals, and patients with real-time tracking.
+
+- Low-latency backend dispatching ambulances and routing triage data
+- Real-time patient vital streaming and emergency bed allocation
+- Multi-tier notification system with automated escalation protocols
+
+`FastAPI` `Node.js` `Flutter` `Supabase` `WebSockets`
+
+<br/>
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
 
 </td>
 </tr>
-</table>
-
----
-
-### 👴 SilverCare AI
-
-<table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-**Description:** _REPLACE_WITH_DESCRIPTION — who is this for, what does it monitor/assist with?_
+### ❤️ Cardio.AI / WithLove
+**AI-Assisted Cardiovascular Risk Screening**
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
+Full-stack mobile health application offering non-invasive cardiac evaluation, personalized health metrics, and clinical connection workflows.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
+- Predictive model evaluating a **28-parameter risk assessment matrix**
+- Intuitive risk visualization dashboards with personalized lifestyle guidance
+- Direct telemedicine consultation conduit and doctor-connect pipeline
+
+`Flutter` `AI/ML` `Mobile UI` `FastAPI` `HealthTech`
+
+<br/>
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 👴 SilverCare AI / SilverBot
+**Intelligent Voice Companion for Elderly Care**
+
+Accessibility-first companion app designed to support senior citizens living independently through voice AI, routine tracking, and automated assistance.
+
+- Conversational voice agent for daily companionship and queries
+- Scheduled medication alerts with caregiver push notifications
+- Integrated location assistance, maps integration, and quick SOS alert dispatch
+
+`AI / NLP` `Voice AI` `Firebase` `Maps API` `Flutter`
+
+<br/>
+<a href="https://silvercare-guardian-66.lovable.app/"><img src="https://img.shields.io/badge/Live_Application-0F172A?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Live Application"/></a>
 
 </td>
 </tr>
-</table>
-
----
+<tr>
+<td width="50%" valign="top">
 
 ### 🍔 QuickNest
+**Hyperlocal Campus Convenience & Discovery Platform**
 
-<table>
-<tr>
-<td width="70%">
+All-in-one university ecosystem platform unifying food pre-ordering, sports court reservation discounts, and mood-adaptive dining.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — food delivery? ordering platform? what's the core flow?_
+- Dynamic campus food stall discovery with real-time wait times
+- Mood-based recommendation engine tailored to student schedules
+- Sports booking management system with peer-group discounts
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
+`Full Stack` `RESTful APIs` `React` `Node.js`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
+<br/>
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
 
 </td>
-</tr>
-</table>
-
----
+<td width="50%" valign="top">
 
 ### 📚 EvolveED.AI
+**AI-Powered Adaptive Learning & Research Assistant**
 
-<table>
-<tr>
-<td width="70%">
+Educational technology platform designed to transform passive video watching into active, retention-optimized mastery.
 
-**Description:** _REPLACE_WITH_DESCRIPTION — adaptive learning? edtech platform? who's the target user?_
+- Automated extraction and semantic summarization of video lectures
+- Embedded 24/7 AI tutor offering contextual Q&A and knowledge testing
+- Personalized curriculum roadmaps adapting to learner pace
 
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
+`GenAI` `LLMs` `Next.js` `FastAPI` `EdTech`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚍 JFOODS
-
-<table>
-<tr>
-<td width="70%">
-
-**Description:** _REPLACE_WITH_DESCRIPTION — what does this do, what's the use case?_
-
-**Tech Stack:** _REPLACE_WITH_STACK_BADGES_
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](REPLACE_WITH_REPO_URL)
-[![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](REPLACE_WITH_DEMO_URL)
+<br/>
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
----
+### 🚍 JFOODS & Agri-Tech Enterprise
+**Transit Food-Tech Logistics & Dehydrated Produce Manufacturing**
 
-<!-- ================= STARTUP JOURNEY ================= -->
-## 🌱 Startup Journey
+Dual commercial initiatives bridging technological logistics with agricultural value-add manufacturing.
 
-I didn't start with a business plan — I started by noticing problems worth solving and trying to build my way into a solution. Each project on this profile is part of that process: a real attempt at something useful, not a polished pitch.
+- **JFOODS**: Early food-tech initiative solving transit catering and bulk meal supply across **Central Railways and NHAI bus operations**.
+- **Agri-Tech Venture**: Bootstrapped manufacturing enterprise producing and distributing premium **dehydrated vegetable chips**, managing full supply chain from farm sourcing to commercial sales.
 
-I'm still early. I don't have a funded company or a product with thousands of users — what I have is a habit of shipping, getting feedback, and rebuilding better. That habit is the actual asset.
+`Startup` `Food-Tech` `Supply Chain` `Operations` `Logistics`
 
----
-
-<!-- ================= OPEN SOURCE JOURNEY ================= -->
-## 🌍 Open Source Journey
-
-- 🔰 Learning to contribute meaningfully — not just chasing PR counts
-- 🤝 Believe the best way to learn a codebase is to fix something small in it first
-- 📦 Long-term goal: maintain or co-maintain a project people actually depend on
-
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
-## 🏆 Achievements
-
-| Category | Highlight |
-|---|---|
-| 🧠 AI Projects | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🏁 Hackathons | _REPLACE_WITH_ACHIEVEMENT_ |
-| ☁️ Cloud | _REPLACE_WITH_ACHIEVEMENT_ |
-| 📚 Learning | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🤝 Community | _REPLACE_WITH_ACHIEVEMENT_ |
-| 🧭 Leadership | _REPLACE_WITH_ACHIEVEMENT_ |
-
----
-
-<!-- ================= CODING PHILOSOPHY ================= -->
-## 💭 Coding Philosophy
-
-> "Code that isn't understood is just borrowed — I build to own what I ship."
-
----
-
-<!-- ================= RANDOM DEV QUOTE ================= -->
+<br/>
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Initiatives-0F172A?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Explore Initiatives"/></a>
+</div>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<!-- ================= FUN FACTS ================= -->
-## ⚡ Fun Facts
+## 🏆 Key Achievements & Milestones
 
-- 🌙 Most of my best debugging happens after midnight
-- 🧩 I'd rather understand *why* code breaks than just fix it and move on
-- ☁️ I have a habit of overengineering side projects into "platforms"
-- 📐 I sketch system architecture before I write a single line of code
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%"><strong>🥇</strong><br/><b>1st Prize</b><br/><sub>Short Film Making</sub></td>
+<td align="center" width="20%"><strong>💼</strong><br/><b>Scalasoft Tech</b><br/><sub>Core Internship (June)</sub></td>
+<td align="center" width="20%"><strong>🏁</strong><br/><b>Top 100</b><br/><sub>AiFi Hackathon (REVA)</sub></td>
+<td align="center" width="20%"><strong>🌊</strong><br/><b>Top 50 Finalist</b><br/><sub>DECODE SIH Grand Finale</sub></td>
+<td align="center" width="20%"><strong>🌱</strong><br/><b>GSSoC</b><br/><sub>Contributor</sub></td>
+</tr>
+</table>
+</div>
+
+| Milestone | Context & Impact |
+|---|---|
+| 🥇 **1st Prize - Short Film Making** | Awarded first prize in competitive short film making, highlighting creative vision, storytelling, and direction. |
+| 💼 **Scalasoft Technology Internship** | Selected for an industry engineering internship at Scalasoft Technology (June), acknowledged for standout technical delivery. |
+| 🏁 **Top 100 Selection @ AiFi Hackathon** | Shortlisted among the Top 100 teams at the prestigious AiFi / HiFi Hackathon hosted at REVA University. |
+| 🌊 **DECODE SIH Grand Finale (Top 50 Finalists)** | Selected for the National Grand Finale among the **Top 50 finalist teams** for AQUA-ETHIC. |
+| 🇮🇳 **Internal Smart India Hackathon (SIH)** | Successfully qualified through university internal hackathon rounds for national SIH representation. |
+| 🚀 **7 Hackathons & 5+ Tech Events** | Veteran of **7 hackathons** (including Namma Hack 2026, AI Rena 2.0, Google initiatives) and attendee/participant in 5+ technical conferences. |
+| 💼 **Internships @ HighDevs & Gigni** | Completed commercial software engineering and GenAI development internships, deploying production code. |
+| 🌱 **GirlScript Summer of Code (GSSoC)** | Selected open-source contributor, contributing pull requests and features to active open-source projects. |
+| ☁️ **Google Cloud Skill Badges** | Earned official Google Cloud skill badges spanning cloud infrastructure, model hosting, and generative AI. |
+| 🏅 **Mr. Fresher Recognition** | Recognized as Mr. Fresher for excellence in communication, campus engagement, and creative presentation. |
 
 ---
 
-<!-- ================= DEVELOPER MINDSET ================= -->
-## 🧠 Developer Mindset
+## 🧭 Leadership & Community
 
-I treat engineering as a craft, not a checklist. That means:
-
-- **Understand before you build** — copy-pasted code is borrowed risk
-- **Ship small, ship often** — momentum beats perfection
-- **Design for the next person** — including future me
-- **Measure, don't guess** — data over assumptions, always
+- 🏛️ **Founder @ F1 Forge**: Founded **F1 Forge**, a dual startup venture and dedicated tech-learning community (WhatsApp & developer network) where members learn tech stacks, build products collaboratively, and participate in peer code reviews.
+- 🎪 **Event Handling & Management @ Technex Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.
+- ⚡ **Startup Builder @ NextStep Network**: Core co-developer collaborating on zero-to-one startup MVPs and product execution.
 
 ---
 
-<!-- ================= ROADMAP ================= -->
-## 🗺️ Roadmap
+## 🗺️ Current Focus & Roadmap
 
 ```text
-✅ Current   → Mastering full-stack AI product development
-🔜 Next      → Deepening system design & distributed architecture
-🔮 Future    → Leading or co-founding an AI-driven product team
-🌠 Dream     → Building something that meaningfully outlives the hype cycle
+🟢 ACTIVE NOW  → Building production-ready AI applications, Agentic AI & cloud infrastructure
+🟡 UP NEXT     → Deepening expertise in distributed systems, advanced cloud architecture & microservices
+🔵 LONG-TERM   → Scaling F1 Forge ventures, autonomous multi-agent systems & high-impact products
 ```
 
 ---
 
-<!-- ================= SUPPORT ================= -->
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect & Collaborate
 
-I'm always open to connecting with people building interesting things. If something here resonates — reach out, let's talk.
+I'm actively open to:
+- 💼 **Internship Opportunities** (AI/ML, Full-Stack, Cloud Computing)
+- 🏁 **Hackathon & Tech Event Collaborations**
+- 🤖 **AI & Full-Stack Product Engineering**
+- 🚀 **Startup Discussions & Architecture**
+- 🌐 **Joining the F1 Forge Community & Startup Ecosystem** (Build products & collaborate together!)
 
----
-
-<!-- ================= FOOTER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer wave"/>
+<a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode_Profile-0F172A?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode"/></a>
 
-**Thanks for stopping by — now go build something.**
+<br/><br/>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1c2541,100:0b132b&height=120&section=footer" alt="Footer Banner"/>
+
+<br/>
+<sub>Designed with precision • Built for production • Powered by Anto & F1 Forge</sub>
 
 </div>

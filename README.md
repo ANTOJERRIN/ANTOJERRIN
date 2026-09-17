@@ -16,7 +16,7 @@
   <a href="https://REPLACE_WITH_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@REPLACE_WITH_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://medium.com/@REPLACE_WITH_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
@@ -97,6 +97,34 @@ Most of what I build lives at the intersection of:
 📈 Improving   → Clean architecture, testing discipline, deployment workflows
 🌱 Growing     → From "writes code" to "ships systems"
 ```
+
+---
+
+<!-- ================= YOUTUBE CHANNEL ================= -->
+## ▶️ YouTube Channel — Tech2007
+
+<div align="center">
+
+<a href="https://www.youtube.com/@Tech2007-g5m">
+  <img src="https://img.shields.io/badge/Subscribe%20to-Tech2007-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Tech2007 on YouTube"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+**Tech2007** is my shortcut hub for tech videos, learning content, builds, and experiments.
+
+[![Open YouTube Channel](https://img.shields.io/badge/Open%20Channel-Tech2007-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech2007-g5m)
+[![YouTube Handle](https://img.shields.io/badge/@Tech2007--g5m-12121A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech2007-g5m)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 

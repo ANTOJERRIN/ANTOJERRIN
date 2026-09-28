@@ -70,105 +70,6 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="100%">
-
-**Programming Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-**Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**AI & Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-
-**Cloud & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Antigravity-111827?style=flat-square&logo=google&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<div align="center">
-
-### Languages
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
-<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=00D9FF" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=00D9FF" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=00D9FF" alt="Java"/>
-<img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=00D9FF" alt="Dart"/>
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00D9FF" alt="MySQL"/>
-
-### AI / ML & Data Science
-<img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=00D9FF" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=00D9FF" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=00D9FF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=00D9FF" alt="Pandas"/>
-
-### Backend & Frameworks
-<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=00D9FF" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=00D9FF" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=00D9FF" alt="Supabase"/>
-
-### Mobile & IoT
-<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=00D9FF" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=00D9FF" alt="Android"/>
-<img src="https://img.shields.io/badge/ESP32_IoT-0F172A?style=for-the-badge&logo=espressif&logoColor=00D9FF" alt="ESP32 IoT"/>
-<img src="https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00D9FF" alt="Arduino"/>
-
-### Cloud & DevOps / Platforms
-<img src="https://img.shields.io/badge/Google_Cloud-0F172A?style=for-the-badge&logo=googlecloud&logoColor=00D9FF" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" alt="AWS"/>
-<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitLab-0F172A?style=for-the-badge&logo=gitlab&logoColor=00D9FF" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=00D9FF" alt="Render"/>
-<img src="https://img.shields.io/badge/Bolt.new-0F172A?style=for-the-badge&logo=lightning&logoColor=00D9FF" alt="Bolt.new"/>
-<img src="https://img.shields.io/badge/Emergent-0F172A?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="Emergent"/>
-
-</div>
-
----
-
 <!-- ================= YOUTUBE CHANNEL ================= -->
 ## ▶️ YouTube Channel — Tech2007
 
@@ -199,22 +100,6 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
-
-### 🧩 LeetCode Stats & Activity Heatmap
-
-<div align="center">
-
-<a href="https://leetcode.com/u/antojerrin/">
-  <img width="100%" src="https://leetcard.jacoblin.cool/antojerrin.svg?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats & Activity Heatmap for antojerrin"/>
-</a>
-
-<p align="center">
-  <sub>🔥 Real-time problem solving stats & submission activity heatmap for <a href="https://leetcode.com/u/antojerrin/"><b>@antojerrin</b></a> on LeetCode</sub>
-</p>
-
-</div>
-
-<br/>
 
 ### 🐙 Most Used Languages
 

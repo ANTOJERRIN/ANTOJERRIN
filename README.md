@@ -107,6 +107,38 @@ Beyond pure software, I bring tangible business acumen to the table:
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 <img src="https://img.shields.io/badge/Bolt.new-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white" alt="Bolt.new"/>
 <img src="https://img.shields.io/badge/Emergent-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Emergent"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python"/>
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=00D9FF" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=00D9FF" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=00D9FF" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=00D9FF" alt="Dart"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=00D9FF" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=00D9FF" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=00D9FF" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=00D9FF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=00D9FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=00D9FF" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=00D9FF" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=00D9FF" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=00D9FF" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=00D9FF" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=00D9FF" alt="Android"/>
+<img src="https://img.shields.io/badge/ESP32_IoT-0F172A?style=for-the-badge&logo=espressif&logoColor=00D9FF" alt="ESP32 IoT"/>
+<img src="https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00D9FF" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0F172A?style=for-the-badge&logo=googlecloud&logoColor=00D9FF" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-0F172A?style=for-the-badge&logo=gitlab&logoColor=00D9FF" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=00D9FF" alt="Render"/>
+<img src="https://img.shields.io/badge/Bolt.new-0F172A?style=for-the-badge&logo=lightning&logoColor=00D9FF" alt="Bolt.new"/>
+<img src="https://img.shields.io/badge/Emergent-0F172A?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="Emergent"/>
 </p>
 
 </div>

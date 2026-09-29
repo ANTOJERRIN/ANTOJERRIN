@@ -63,7 +63,7 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 | 🎓 Education | 📍 Roles & Status | 🛠️ Primary Stack | 💼 Experience |
 |---|---|---|---|
-| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ F1 Forge**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scalasoft, HighDevs & Gigni**<br/>GSSoC Contributor |
+| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ F1 Forge**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scaler School Of Technology, Hi Devs & Gigni**<br/>GSSoC Contributor |
 
 </div>
 
@@ -309,12 +309,12 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 | Milestone | Context & Impact |
 |---|---|
 | 🥇 **1st Prize - Short Film Making** | Awarded first prize in competitive short film making, highlighting creative vision, storytelling, and direction. |
-| 💼 **Scalasoft Technology Internship** | Selected for an industry engineering internship at Scalasoft Technology (June), acknowledged for standout technical delivery. |
+| 💼 **Scaler School Of Technology YIIC(Internship)** | Selected for an industry engineering internship at Scalasoft Technology (June), acknowledged for standout technical delivery. |
 | 🏁 **Top 100 Selection @ AiFi Hackathon** | Shortlisted among the Top 100 teams at the prestigious AiFi / HiFi Hackathon hosted at REVA University. |
 | 🌊 **DECODE SIH Grand Finale (Top 50 Finalists)** | Selected for the National Grand Finale among the **Top 50 finalist teams** for AQUA-ETHIC. |
 | 🇮🇳 **Internal Smart India Hackathon (SIH)** | Successfully qualified through university internal hackathon rounds for national SIH representation. |
 | 🚀 **7 Hackathons & 5+ Tech Events** | Veteran of **7 hackathons** (including Namma Hack 2026, AI Rena 2.0, Google initiatives) and attendee/participant in 5+ technical conferences. |
-| 💼 **Internships @ HighDevs & Gigni** | Completed commercial software engineering and GenAI development internships, deploying production code. |
+| 💼 **Internships @ Hi Devs & Gigni** | Completed commercial software engineering and GenAI development internships, deploying production code. |
 | 🌱 **GirlScript Summer of Code (GSSoC)** | Selected open-source contributor, contributing pull requests and features to active open-source projects. |
 | ☁️ **Google Cloud Skill Badges** | Earned official Google Cloud skill badges spanning cloud infrastructure, model hosting, and generative AI. |
 | 🏅 **Mr. Fresher Recognition** | Recognized as Mr. Fresher for excellence in communication, campus engagement, and creative presentation. |
@@ -324,8 +324,8 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 ## 🧭 Leadership & Community
 
 - 🏛️ **Founder @ F1 Forge**: Founded **F1 Forge**, a dual startup venture and dedicated tech-learning community (WhatsApp & developer network) where members learn tech stacks, build products collaboratively, and participate in peer code reviews.
-- 🎪 **Event Handling & Management @ Technex Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.
-- ⚡ **Startup Builder @ NextStep Network**: Core co-developer collaborating on zero-to-one startup MVPs and product execution.
+- 🎪 **Event Handling & Management @ Technexus Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.
+- ⚡ **Startup Builder @ Nexstep Network**: Core co-developer collaborating on zero-to-one startup MVPs and product execution.
 
 ---
 

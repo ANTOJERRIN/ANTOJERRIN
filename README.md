@@ -298,7 +298,7 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 <table>
 <tr>
 <td align="center" width="20%"><strong>🥇</strong><br/><b>1st Prize</b><br/><sub>Short Film Making</sub></td>
-<td align="center" width="20%"><strong>💼</strong><br/><b>Scalasoft Tech</b><br/><sub>Core Internship (June)</sub></td>
+<td align="center" width="20%"><strong>💼</strong><br/><b>Scaler School Of Technology</b><br/><sub>Core Internship (June)</sub></td>
 <td align="center" width="20%"><strong>🏁</strong><br/><b>Top 100</b><br/><sub>AiFi Hackathon (REVA)</sub></td>
 <td align="center" width="20%"><strong>🌊</strong><br/><b>Top 50 Finalist</b><br/><sub>DECODE SIH Grand Finale</sub></td>
 <td align="center" width="20%"><strong>🌱</strong><br/><b>GSSoC</b><br/><sub>Contributor</sub></td>
@@ -309,7 +309,7 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 | Milestone | Context & Impact |
 |---|---|
 | 🥇 **1st Prize - Short Film Making** | Awarded first prize in competitive short film making, highlighting creative vision, storytelling, and direction. |
-| 💼 **Scaler School Of Technology YIIC(Internship)** | Selected for an industry engineering internship at Scalasoft Technology (June), acknowledged for standout technical delivery. |
+| 💼 **Scaler School Of Technology YIIC(Internship)** | Selected for an industry engineering internship at Scaler School Of Technology (June), acknowledged for standout technical delivery. |
 | 🏁 **Top 100 Selection @ AiFi Hackathon** | Shortlisted among the Top 100 teams at the prestigious AiFi / HiFi Hackathon hosted at REVA University. |
 | 🌊 **DECODE SIH Grand Finale (Top 50 Finalists)** | Selected for the National Grand Finale among the **Top 50 finalist teams** for AQUA-ETHIC. |
 | 🇮🇳 **Internal Smart India Hackathon (SIH)** | Successfully qualified through university internal hackathon rounds for national SIH representation. |

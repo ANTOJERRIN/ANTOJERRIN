@@ -56,8 +56,6 @@ Rather than stopping at prototypes, I execute the full lifecycle: **Problem Defi
 Beyond pure software, I bring tangible business acumen to the table:
 - 🏛️ **Founder at ForMa**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
 - 🚀 **Startup Builder at NextStep Network**: Co-developer architecting and validating product MVPs.
-- 💼 **Founder of JFOODS**: Food-tech venture addressing high-volume transit catering logistics across Central Railways and NHAI bus operations.
-- 🥗 **Agri-Tech Enterprise**: Bootstrapped, profitable venture producing and distributing **dehydrated vegetable chips**.
 
 <div align="center">
 

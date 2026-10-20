@@ -56,6 +56,7 @@ Rather than stopping at prototypes, I execute the full lifecycle: **Problem Defi
 Beyond pure software, I bring tangible business acumen to the table:
 - 🏛️ **Founder at ForMa**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
 - 🚀 **Startup Builder at NextStep Network**: Co-developer architecting and validating product MVPs.
+- 🎥 **Technology Content Creator**: I create and share technology-focused content on Instagram and YouTube, documenting what I learn, explore, and build. Check out the [Content Creation Based on Technology](#content-creation) section below for my channels.
 
 <div align="center">
 
@@ -110,13 +111,18 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 ---
 
-<!-- ================= YOUTUBE CHANNEL ================= -->
-## ▶️ YouTube Channel — Tech2007
+<!-- ================= TECHNOLOGY CONTENT CREATION ================= -->
+<a id="content-creation"></a>
+## 🎥 Content Creation Based on Technology
 
 <div align="center">
 
+<a href="https://www.instagram.com/jerrinanto2007">
+  <img src="https://img.shields.io/badge/Instagram-@jerrinanto2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow jerrinanto2007 on Instagram"/>
+</a>
+&nbsp;
 <a href="https://www.youtube.com/@Tech2007-g5m">
-  <img src="https://img.shields.io/badge/Subscribe%20to-Tech2007-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Tech2007 on YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-Tech2007-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Tech2007 on YouTube"/>
 </a>
 
 <br/><br/>
@@ -125,10 +131,9 @@ Beyond pure software, I bring tangible business acumen to the table:
 <tr>
 <td align="center">
 
-**Tech2007** is my shortcut hub for tech videos, learning content, builds, and experiments.
+I create technology-focused content on **Instagram (@jerrinanto2007)** and **YouTube (Tech2007)**, sharing my learning journey, software builds, and experiments. Drawing on my work in AI and software development, I aim to make technical ideas easier to understand and encourage others to explore, learn, and build alongside me.
 
-[![Open YouTube Channel](https://img.shields.io/badge/Open%20Channel-Tech2007-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech2007-g5m)
-[![YouTube Handle](https://img.shields.io/badge/@Tech2007--g5m-12121A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Tech2007-g5m)
+**Do like, support, and follow our channels!** Follow on Instagram and subscribe on YouTube to join the journey.
 
 </td>
 </tr>

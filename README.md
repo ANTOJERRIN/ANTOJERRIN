@@ -37,7 +37,7 @@
 <td align="center" width="20%"><br/>⚡<br/><strong>FULL STACK</strong><br/><sub>FastAPI • Next.js • React</sub><br/><br/></td>
 <td align="center" width="20%"><br/>☁️<br/><strong>CLOUD</strong><br/><sub>Google Cloud • AWS • Deployments</sub><br/><br/></td>
 <td align="center" width="20%"><br/>📱<br/><strong>MOBILE & IoT</strong><br/><sub>Flutter • Android • ESP32 • Arduino</sub><br/><br/></td>
-<td align="center" width="20%"><br/>🚀<br/><strong>STARTUPS</strong><br/><sub>F1 Forge • NextStep • Production</sub><br/><br/></td>
+<td align="center" width="20%"><br/>🚀<br/><strong>STARTUPS</strong><br/><sub>ForMa • NextStep • Production</sub><br/><br/></td>
 </tr>
 </table>
 
@@ -54,7 +54,7 @@ I'm **A Jerrin Anto (Anto)** — a **second-year B.Tech CSE (AI & Machine Learni
 Rather than stopping at prototypes, I execute the full lifecycle: **Problem Definition → System Architecture → Production Code → Deployed Product**. Recently, I have been doubling down on cloud computing infrastructure, scalable backend microservices, and autonomous agentic AI workflows.
 
 Beyond pure software, I bring tangible business acumen to the table:
-- 🏛️ **Founder at F1 Forge**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
+- 🏛️ **Founder at ForMa**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
 - 🚀 **Startup Builder at NextStep Network**: Co-developer architecting and validating product MVPs.
 - 💼 **Founder of JFOODS**: Food-tech venture addressing high-volume transit catering logistics across Central Railways and NHAI bus operations.
 - 🥗 **Agri-Tech Enterprise**: Bootstrapped, profitable venture producing and distributing **dehydrated vegetable chips**.
@@ -63,7 +63,7 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 | 🎓 Education | 📍 Roles & Status | 🛠️ Primary Stack | 💼 Experience |
 |---|---|---|---|
-| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ F1 Forge**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scaler School Of Technology, Hi Devs & Gigni**<br/>GSSoC Contributor |
+| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ ForMa**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scaler School Of Technology, Hi Devs & Gigni**<br/>GSSoC Contributor |
 
 </div>
 
@@ -165,33 +165,33 @@ Beyond pure software, I bring tangible business acumen to the table:
 ### 🌊 AQUA-ETHIC
 **IoT × Blockchain × Water Quality Platform**
 
-Water-quality monitoring and cryptographic verification platform engineered for the **DECODE SIH Hackathon (Grand Finale Top 50)**. Integrates hardware sensing with tamper-proof blockchain consensus.
+Water-quality monitoring platform that connects sensor telemetry with an Express API, SQLite storage, SHA-256 integrity checks, and Solidity blockchain anchoring.
 
-- Real-time water parameter telemetry via ESP32 microcontrollers
-- Tamper-proof sensor hashing recorded via Solidity smart contracts
-- Cryptographic audit trail ensuring immutable public water safety
+- ESP32 water-quality telemetry ingestion
+- Hash-based verification and historical sensor records
+- Blockchain anchoring with a development simulator fallback
 
-`ESP32` `Node.js` `Web3.js` `Solidity` `Hardhat` `SQLite`
+`ESP32` `Node.js` `Express` `SQLite` `Web3.js` `Solidity` `Hardhat`
 
 <br/>
-<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View Repository"/></a>
+<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — AQUA-ETHIC on GitHub"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚑 LifeLine & LifeLine Backend
-**Emergency Medical Response & Health Coordination**
+### 🚑 Lifeline
+**Medical Records & AI Health Assistant**
 
-Full-stack emergency healthcare coordination platform connecting emergency responders, hospitals, and patients with real-time tracking.
+A healthcare platform where doctors upload medical reports and patients ask Vitalis, an AI assistant, about their own health history through patient-controlled access.
 
-- Low-latency backend dispatching ambulances and routing triage data
-- Real-time patient vital streaming and emergency bed allocation
-- Multi-tier notification system with automated escalation protocols
+- Tesseract and EasyOCR extraction from scanned reports
+- AI extraction of diagnoses, medicines, and lab results
+- Patient consent, role-based access, and structured medical records
 
-`FastAPI` `Node.js` `Flutter` `Supabase` `WebSockets`
+`Python` `FastAPI` `Supabase` `PostgreSQL` `Tesseract` `EasyOCR` `Groq / LLaMA`
 
 <br/>
-<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
+<a href="https://github.com/ANTOJERRIN/LIFELINE-"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — Lifeline on GitHub"/></a>
 
 </td>
 </tr>
@@ -199,91 +199,35 @@ Full-stack emergency healthcare coordination platform connecting emergency respo
 <td width="50%" valign="top">
 
 ### ❤️ Cardio.AI / WithLove
-**AI-Assisted Cardiovascular Risk Screening**
+**Heart Risk Assessment & Visualization**
 
-Full-stack mobile health application offering non-invasive cardiac evaluation, personalized health metrics, and clinical connection workflows.
+A cardiovascular risk assessment application combining clinical and lifestyle inputs, a Python prediction API, and a React interface with interactive heart visualizations.
 
-- Predictive model evaluating a **28-parameter risk assessment matrix**
-- Intuitive risk visualization dashboards with personalized lifestyle guidance
-- Direct telemedicine consultation conduit and doctor-connect pipeline
+- Risk prediction using clinical and lifestyle parameters
+- Health input and risk-result dashboards
+- Interactive 3D and AR heart visualization components
 
-`Flutter` `AI/ML` `Mobile UI` `FastAPI` `HealthTech`
+`React` `Tailwind CSS` `Python` `FastAPI` `scikit-learn` `Three.js`
 
 <br/>
-<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
+<a href="https://github.com/ANTOJERRIN/Withlove101"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — Cardio.AI / WithLove on GitHub"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 👴 SilverCare AI / SilverBot
-**Intelligent Voice Companion for Elderly Care**
+### 🛟 ResQ
+**AI-Powered Disaster Response & Offline Coordination**
 
-Accessibility-first companion app designed to support senior citizens living independently through voice AI, routine tracking, and automated assistance.
+A Flutter disaster-response platform combining SOS reports, tactical maps, AI guidance, and nearby responder coordination, with peer-to-peer communication for no-internet environments.
 
-- Conversational voice agent for daily companionship and queries
-- Scheduled medication alerts with caregiver push notifications
-- Integrated location assistance, maps integration, and quick SOS alert dispatch
+- SOS reports with location and emergency context
+- Nearby Connections peer-to-peer mesh communication
+- AI assistance, voice interaction, and tactical maps
 
-`AI / NLP` `Voice AI` `Firebase` `Maps API` `Flutter`
-
-<br/>
-<a href="https://silvercare-guardian-66.lovable.app/"><img src="https://img.shields.io/badge/Live_Application-0F172A?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Live Application"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 QuickNest
-**Hyperlocal Campus Convenience & Discovery Platform**
-
-All-in-one university ecosystem platform unifying food pre-ordering, sports court reservation discounts, and mood-adaptive dining.
-
-- Dynamic campus food stall discovery with real-time wait times
-- Mood-based recommendation engine tailored to student schedules
-- Sports booking management system with peer-group discounts
-
-`Full Stack` `RESTful APIs` `React` `Node.js`
+`Flutter` `Firebase` `Gemini` `ML Kit` `ElevenLabs` `Nearby Connections` `Google Maps`
 
 <br/>
-<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 EvolveED.AI
-**AI-Powered Adaptive Learning & Research Assistant**
-
-Educational technology platform designed to transform passive video watching into active, retention-optimized mastery.
-
-- Automated extraction and semantic summarization of video lectures
-- Embedded 24/7 AI tutor offering contextual Q&A and knowledge testing
-- Personalized curriculum roadmaps adapting to learner pace
-
-`GenAI` `LLMs` `Next.js` `FastAPI` `EdTech`
-
-<br/>
-<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Project-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Project"/></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚍 JFOODS & Agri-Tech Enterprise
-**Transit Food-Tech Logistics & Dehydrated Produce Manufacturing**
-
-Dual commercial initiatives bridging technological logistics with agricultural value-add manufacturing.
-
-- **JFOODS**: Early food-tech initiative solving transit catering and bulk meal supply across **Central Railways and NHAI bus operations**.
-- **Agri-Tech Venture**: Bootstrapped manufacturing enterprise producing and distributing premium **dehydrated vegetable chips**, managing full supply chain from farm sourcing to commercial sales.
-
-`Startup` `Food-Tech` `Supply Chain` `Operations` `Logistics`
-
-<br/>
-<div align="center">
-<a href="https://github.com/ANTOJERRIN"><img src="https://img.shields.io/badge/Explore_Initiatives-0F172A?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Explore Initiatives"/></a>
-</div>
+<a href="https://github.com/Jack26-bit/Resq"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — ResQ on GitHub"/></a>
 
 </td>
 </tr>
@@ -323,7 +267,12 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 
 ## 🧭 Leadership & Community
 
-- 🏛️ **Founder @ F1 Forge**: Founded **F1 Forge**, a dual startup venture and dedicated tech-learning community (WhatsApp & developer network) where members learn tech stacks, build products collaboratively, and participate in peer code reviews.
+<p align="center">
+  <img src="./forma-logo.jpg" width="120" alt="ForMa company logo"/>
+  <br/><strong>ForMa</strong>
+</p>
+
+- 🏛️ **Founder @ ForMa**: Founded **ForMa**, a dual startup venture and dedicated tech-learning community (WhatsApp & developer network) where members learn tech stacks, build products collaboratively, and participate in peer code reviews.
 - 🎪 **Event Handling & Management @ Technexus Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.
 - ⚡ **Startup Builder @ Nexstep Network**: Core co-developer collaborating on zero-to-one startup MVPs and product execution.
 
@@ -334,7 +283,7 @@ Dual commercial initiatives bridging technological logistics with agricultural v
 ```text
 🟢 ACTIVE NOW  → Building production-ready AI applications, Agentic AI & cloud infrastructure
 🟡 UP NEXT     → Deepening expertise in distributed systems, advanced cloud architecture & microservices
-🔵 LONG-TERM   → Scaling F1 Forge ventures, autonomous multi-agent systems & high-impact products
+🔵 LONG-TERM   → Scaling ForMa ventures, autonomous multi-agent systems & high-impact products
 ```
 
 ---
@@ -346,7 +295,7 @@ I'm actively open to:
 - 🏁 **Hackathon & Tech Event Collaborations**
 - 🤖 **AI & Full-Stack Product Engineering**
 - 🚀 **Startup Discussions & Architecture**
-- 🌐 **Joining the F1 Forge Community & Startup Ecosystem** (Build products & collaborate together!)
+- 🌐 **Joining the ForMa Community & Startup Ecosystem** (Build products & collaborate together!)
 
 <div align="center">
 
@@ -364,6 +313,6 @@ I'm actively open to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1c2541,100:0b132b&height=120&section=footer" alt="Footer Banner"/>
 
 <br/>
-<sub>Designed with precision • Built for production • Powered by Anto & F1 Forge</sub>
+<sub>Designed with precision • Built for production • Powered by Anto & ForMa</sub>
 
 </div>

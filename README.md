@@ -267,10 +267,20 @@ A Flutter disaster-response platform combining SOS reports, tactical maps, AI gu
 
 ## 🧭 Leadership & Community
 
-<p align="center">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
   <img src="./forma-logo.jpg" width="120" alt="ForMa company logo"/>
   <br/><strong>ForMa</strong>
-</p>
+</td>
+<td align="center" width="200">
+  <img src="./nexstep-network-logo.png" width="120" alt="Nexstep Network logo"/>
+  <br/><strong>Nexstep Network</strong>
+</td>
+</tr>
+</table>
+</div>
 
 - 🏛️ **Founder @ ForMa**: Founded **ForMa**, a dual startup venture and dedicated tech-learning community (WhatsApp & developer network) where members learn tech stacks, build products collaboratively, and participate in peer code reviews.
 - 🎪 **Event Handling & Management @ Technexus Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.

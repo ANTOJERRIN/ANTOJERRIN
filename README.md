@@ -1,12 +1,14 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:00d9ff&height=220&section=header&text=A%20Jerrin%20Anto&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=17&animation=fadeIn" alt="A Jerrin Anto Header Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0b132b%2C50%3A1c2541%2C100%3A00d9ff&height=220&section=header&text=A+Jerrin+Anto&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Learner+%E2%80%A2+Explorer&descAlignY=58&descSize=17&animation=fadeIn" alt="A Jerrin Anto Header Banner"/>
 
 <!-- Dynamic Typing Introduction -->
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Engineer;Full+Stack+%26+Cloud+Builder;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Startup+Founder+%26+Problem+Solver&font=Fira+Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&size=22&pause=1200" alt="Animated Typing Introduction"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+learner+and+explorer&font=Fira+Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&size=22&pause=1200" alt="Animated Typing Introduction"/>
 
 <br/>
+
+<p><strong>Exploring AI/ML + Cloud | 7x Hackathons | Founder @ForMa | Open Source @GSSoC26 @OSCI26</strong></p>
 
 <!-- ================= SOCIAL / CONNECT BADGES ================= -->
 <p>
@@ -49,9 +51,9 @@
 
 ## 👋 About Me
 
-I'm **A Jerrin Anto (Anto)** — a **second-year B.Tech CSE (AI & Machine Learning)** student, full-stack software engineer, and entrepreneurial startup builder. I specialize in designing and deploying end-to-end intelligent systems that connect robust machine learning pipelines with high-throughput backends, resilient cloud architecture, and intuitive cross-platform interfaces.
+I'm **A Jerrin Anto** — a **learner and explorer**, currently pursuing B.Tech CSE (AI & Machine Learning). I'm exploring AI/ML, cloud computing, and software development through hands-on projects, hackathons, and open-source contributions.
 
-Rather than stopping at prototypes, I execute the full lifecycle: **Problem Definition → System Architecture → Production Code → Deployed Product**. Recently, I have been doubling down on cloud computing infrastructure, scalable backend microservices, and autonomous agentic AI workflows.
+I learn by trying things, asking questions, and building with others. This profile brings together the projects, experiments, and experiences from that journey.
 
 Beyond pure software, I bring tangible business acumen to the table:
 - 🏛️ **Founder at ForMa**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.

@@ -16,7 +16,7 @@
   <a href="https://jerrin-ai.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:ajant2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
- <a href="https://instagram.com/jerrinanto2007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+ <a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
@@ -119,8 +119,8 @@ Beyond pure software, I bring tangible business acumen to the table:
 
 <div align="center">
 
-<a href="https://www.instagram.com/jerrinanto2007">
-  <img src="https://img.shields.io/badge/Instagram-@jerrinanto2007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow jerrinanto2007 on Instagram"/>
+<a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v">
+  <img src="https://img.shields.io/badge/Instagram-@codewithjeru-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow codewithjeru on Instagram"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@Tech2007-g5m">
@@ -133,7 +133,7 @@ Beyond pure software, I bring tangible business acumen to the table:
 <tr>
 <td align="center">
 
-I create technology-focused content on **Instagram (@jerrinanto2007)** and **YouTube (Tech2007)**, sharing my learning journey, software builds, and experiments. Drawing on my work in AI and software development, I aim to make technical ideas easier to understand and encourage others to explore, learn, and build alongside me.
+I create technology-focused content on **Instagram (@codewithjeru)** and **YouTube (Tech2007)**, sharing my learning journey, software builds, and experiments. Drawing on my work in AI and software development, I aim to make technical ideas easier to understand and encourage others to explore, learn, and build alongside me.
 
 **Do like, support, and follow our channels!** Follow on Instagram and subscribe on YouTube to join the journey.
 

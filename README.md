@@ -8,7 +8,7 @@
 
 <br/>
 
-<h3 align="center">Exploring AI/ML + Cloud | 7x Hackathons | Founder @ForMa | Open Source @GSSoC26 @OSCI26</h3>
+<h3 align="center">🚀 Founder @ ForMa | 🎥 Tech Content Creator @ CodeWithJeru | 💻 Open Source Contributor · GSSoC ’26 &amp; OSCI ’26 | 7× Hackathon | Exploring AI/ML &amp; Cloud</h3>
 
 <!-- ================= SOCIAL / CONNECT BADGES ================= -->
 <p>

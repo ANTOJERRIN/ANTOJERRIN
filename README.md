@@ -20,6 +20,10 @@
   <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
+<p><strong>Company page:</strong><br/>
+  <a href="https://forma-9c8t.onrender.com/"><img src="https://img.shields.io/badge/ForMa-0A66C2?style=for-the-badge" alt="ForMa company page"/></a>
+</p>
+
 <br/><br/>
 
 <!-- Profile Views Counter -->

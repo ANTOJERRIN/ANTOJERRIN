@@ -1,178 +1,39 @@
 <div align="center">
+  <img src="./profile-wave.svg" width="100%" alt="" />
+  <h1>A Jerrin Anto</h1>
+  <p><strong>Learner &amp; explorer</strong> · Founder @ ForMa · Tech Content Creator @ CodeWithJeru</p>
+  <p>Open source contributor · GSSoC ’26 &amp; OSCI ’26 · 7 hackathons · Exploring AI/ML &amp; Cloud</p>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0b132b%2C50%3A1c2541%2C100%3A00d9ff&height=220&section=header&text=A+Jerrin+Anto&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Learner+%E2%80%A2+Explorer&descAlignY=58&descSize=17&animation=fadeIn" alt="A Jerrin Anto Header Banner"/>
-
-<!-- Dynamic Typing Introduction -->
-<img src="https://readme-typing-svg.demolab.com/?lines=I%27m+a+learner+and+explorer&font=Fira+Code&center=true&width=650&height=50&color=00D9FF&vCenter=true&size=22&pause=1200" alt="Animated Typing Introduction"/>
-
-<br/>
-
-<h3 align="center">🚀 Founder @ ForMa | 🎥 Tech Content Creator @ CodeWithJeru | 💻 Open Source Contributor · GSSoC ’26 &amp; OSCI ’26 | 7× Hackathon | Exploring AI/ML &amp; Cloud</h3>
-
-<!-- ================= SOCIAL / CONNECT BADGES ================= -->
-<p>
-  <a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jerrin-ai.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-12121A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:ajant2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
- <a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
-
-<h3 align="center">Company page:</h3>
-<p>
-  <a href="https://forma-9c8t.onrender.com/"><img src="./forma-symbol.png" width="30" alt="" /> <img src="https://img.shields.io/badge/ForMa-0A66C2?style=for-the-badge" alt="ForMa company page"/></a>
-</p>
-
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+  <p>
+    <a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/LinkedIn-143D56?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://jerrin-ai.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-143D56?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:ajant2007@gmail.com"><img src="https://img.shields.io/badge/Email-143D56?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.youtube.com/@Tech2007-g5m"><img src="https://img.shields.io/badge/YouTube-143D56?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v"><img src="https://img.shields.io/badge/Instagram-143D56?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode-143D56?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+    <a href="https://forma-9c8t.onrender.com/"><img src="./forma-symbol.png" width="30" alt="" /> <img src="https://img.shields.io/badge/ForMa-143D56?style=flat-square" alt="ForMa company page"/></a>
+  </p>
 </div>
 
----
-
-<div align="center">
-
-### ⚡ ARCHITECTURE • INTELLIGENCE • SCALE
-
-<table>
-<tr>
-<td align="center" width="20%"><br/>🤖<br/><strong>AI & ML</strong><br/><sub>PyTorch • Agentic AI • Vision</sub><br/><br/></td>
-<td align="center" width="20%"><br/>⚡<br/><strong>FULL STACK</strong><br/><sub>FastAPI • Next.js • React</sub><br/><br/></td>
-<td align="center" width="20%"><br/>☁️<br/><strong>CLOUD</strong><br/><sub>Google Cloud • AWS • Deployments</sub><br/><br/></td>
-<td align="center" width="20%"><br/>📱<br/><strong>MOBILE & IoT</strong><br/><sub>Flutter • Android • ESP32 • Arduino</sub><br/><br/></td>
-<td align="center" width="20%"><br/>🚀<br/><strong>STARTUPS</strong><br/><sub>ForMa • NextStep • Production</sub><br/><br/></td>
-</tr>
-</table>
-
-</div>
-
-> *"Code that isn't understood is just borrowed — I build to own what I ship."*
-
----
-
-## 👋 About Me
+## About Me
 
 I'm **A Jerrin Anto** — a **learner and explorer**, currently pursuing B.Tech CSE (AI & Machine Learning). I'm exploring AI/ML, cloud computing, and software development through hands-on projects, hackathons, and open-source contributions.
 
 I learn by trying things, asking questions, and building with others. This profile brings together the projects, experiments, and experiences from that journey.
 
-Beyond pure software, I bring tangible business acumen to the table:
 - 🏛️ **Founder at ForMa**: A dual startup initiative and collaborative developer community dedicated to building production products and mastering modern engineering stacks together.
-- 🚀 **Startup Builder at NextStep Network**: Co-developer architecting and validating product MVPs.
+- 🚀 **Startup Builder at Nexstep Network**: Co-developer architecting and validating product MVPs.
 - 🎥 **Technology Content Creator**: I create and share technology-focused content on Instagram and YouTube, documenting what I learn, explore, and build. Check out the [Content Creation Based on Technology](#content-creation) section below for my channels.
 
-<div align="center">
+- **Education** · **B.Tech CSE (AI & ML)** · Second-Year Undergraduate
+- **Primary stack** · **Python • FastAPI • Next.js** · React • Flutter • Google Cloud
+- **Experience** · **Internships @ Scaler School Of Technology, Hi Devs & Gigni** · GSSoC Contributor
 
-| 🎓 Education | 📍 Roles & Status | 🛠️ Primary Stack | 💼 Experience |
-|---|---|---|---|
-| **B.Tech CSE (AI & ML)**<br/>Second-Year Undergraduate | **Founder @ ForMa**<br/>Startup Builder @ NextStep Network | **Python • FastAPI • Next.js**<br/>React • Flutter • Google Cloud | **Internships @ Scaler School Of Technology, Hi Devs & Gigni**<br/>GSSoC Contributor |
+> *"Code that isn't understood is just borrowed — I build to own what I ship."*
 
-</div>
+## Shipped & Featured Projects
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-<img src="https://img.shields.io/badge/Bolt.new-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white" alt="Bolt.new"/>
-<img src="https://img.shields.io/badge/Emergent-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Emergent"/>
-</p>
-
-</div>
-
----
-
-<!-- ================= TECHNOLOGY CONTENT CREATION ================= -->
-<a id="content-creation"></a>
-## 🎥 Content Creation Based on Technology
-
-<div align="center">
-
-<a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v">
-  <img src="https://img.shields.io/badge/Instagram-@codewithjeru-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow codewithjeru on Instagram"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@Tech2007-g5m">
-  <img src="https://img.shields.io/badge/YouTube-Tech2007-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Tech2007 on YouTube"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-
-I create technology-focused content on **Instagram (@codewithjeru)** and **YouTube (Tech2007)**, sharing my learning journey, software builds, and experiments. Drawing on my work in AI and software development, I aim to make technical ideas easier to understand and encourage others to explore, learn, and build alongside me.
-
-**Do like, support, and follow our channels!** Follow on Instagram and subscribe on YouTube to join the journey.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-## 📊 GitHub Analytics
-
-### 🐙 Most Used Languages
-
-<div align="center">
-
-<a href="https://github.com/ANTOJERRIN">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&bg_color=0f172a&title_color=00d9ff&text_color=94a3b8&border_color=1e293b" alt="Top Languages Used"/>
-</a>
-
-</div>
-
----
-
-## 🚀 Shipped & Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 AQUA-ETHIC
+### AQUA-ETHIC
 **IoT × Blockchain × Water Quality Platform**
 
 Water-quality monitoring platform that connects sensor telemetry with an Express API, SQLite storage, SHA-256 integrity checks, and Solidity blockchain anchoring.
@@ -183,13 +44,9 @@ Water-quality monitoring platform that connects sensor telemetry with an Express
 
 `ESP32` `Node.js` `Express` `SQLite` `Web3.js` `Solidity` `Hardhat`
 
-<br/>
-<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — AQUA-ETHIC on GitHub"/></a>
+<a href="https://github.com/ANTOJERRIN/AQUA-ETHIC"><img src="https://img.shields.io/badge/Repo-143D56?style=flat-square&logo=github&logoColor=white" alt="Repo — AQUA-ETHIC on GitHub"/></a>
 
-</td>
-<td width="50%" valign="top">
-
-### 🚑 Lifeline
+### Lifeline
 **Medical Records & AI Health Assistant**
 
 A healthcare platform where doctors upload medical reports and patients ask Vitalis, an AI assistant, about their own health history through patient-controlled access.
@@ -200,15 +57,9 @@ A healthcare platform where doctors upload medical reports and patients ask Vita
 
 `Python` `FastAPI` `Supabase` `PostgreSQL` `Tesseract` `EasyOCR` `Groq / LLaMA`
 
-<br/>
-<a href="https://github.com/ANTOJERRIN/LIFELINE-"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — Lifeline on GitHub"/></a>
+<a href="https://github.com/ANTOJERRIN/LIFELINE-"><img src="https://img.shields.io/badge/Repo-143D56?style=flat-square&logo=github&logoColor=white" alt="Repo — Lifeline on GitHub"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ❤️ Cardio.AI / WithLove
+### Cardio.AI / WithLove
 **Heart Risk Assessment & Visualization**
 
 A cardiovascular risk assessment application combining clinical and lifestyle inputs, a Python prediction API, and a React interface with interactive heart visualizations.
@@ -219,13 +70,9 @@ A cardiovascular risk assessment application combining clinical and lifestyle in
 
 `React` `Tailwind CSS` `Python` `FastAPI` `scikit-learn` `Three.js`
 
-<br/>
-<a href="https://github.com/ANTOJERRIN/Withlove101"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — Cardio.AI / WithLove on GitHub"/></a>
+<a href="https://github.com/ANTOJERRIN/Withlove101"><img src="https://img.shields.io/badge/Repo-143D56?style=flat-square&logo=github&logoColor=white" alt="Repo — Cardio.AI / WithLove on GitHub"/></a>
 
-</td>
-<td width="50%" valign="top">
-
-### 🛟 ResQ
+### ResQ
 **AI-Powered Disaster Response & Offline Coordination**
 
 A Flutter disaster-response platform combining SOS reports, tactical maps, AI guidance, and nearby responder coordination, with peer-to-peer communication for no-internet environments.
@@ -236,29 +83,66 @@ A Flutter disaster-response platform combining SOS reports, tactical maps, AI gu
 
 `Flutter` `Firebase` `Gemini` `ML Kit` `ElevenLabs` `Nearby Connections` `Google Maps`
 
-<br/>
-<a href="https://github.com/Jack26-bit/Resq"><img src="https://img.shields.io/badge/Repo-0F172A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Repo — ResQ on GitHub"/></a>
+<a href="https://github.com/Jack26-bit/Resq"><img src="https://img.shields.io/badge/Repo-143D56?style=flat-square&logo=github&logoColor=white" alt="Repo — ResQ on GitHub"/></a>
 
-</td>
-</tr>
-</table>
-</div>
+## Tech Stack
 
----
+| Focus | Tools and interests |
+| --- | --- |
+| AI & ML | PyTorch • Agentic AI • Vision |
+| Full stack | FastAPI • Next.js • React |
+| Cloud | Google Cloud • AWS • Deployments |
+| Mobile & IoT | Flutter • Android • ESP32 • Arduino |
+| Startups | ForMa • Nexstep • Production |
 
-## 🏆 Key Achievements & Milestones
+### Languages and databases
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="20%"><strong>🥇</strong><br/><b>1st Prize</b><br/><sub>Short Film Making</sub></td>
-<td align="center" width="20%"><strong>💼</strong><br/><b>Scaler School Of Technology</b><br/><sub>Core Internship (June)</sub></td>
-<td align="center" width="20%"><strong>🏁</strong><br/><b>Top 100</b><br/><sub>AiFi Hackathon (REVA)</sub></td>
-<td align="center" width="20%"><strong>🌊</strong><br/><b>Top 50 Finalist</b><br/><sub>DECODE SIH Grand Finale</sub></td>
-<td align="center" width="20%"><strong>🌱</strong><br/><b>GSSoC</b><br/><sub>Contributor</sub></td>
-</tr>
-</table>
-</div>
+<img src="https://img.shields.io/badge/Python-143D56?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-143D56?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-143D56?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-143D56?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-143D56?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/TypeScript-143D56?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MySQL-143D56?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+### AI and machine learning
+
+<img src="https://img.shields.io/badge/PyTorch-143D56?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-143D56?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-143D56?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/NumPy-143D56?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-143D56?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+
+### Web and backend
+
+<img src="https://img.shields.io/badge/FastAPI-143D56?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Next.js-143D56?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-143D56?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-143D56?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-143D56?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-143D56?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+
+### Mobile and IoT
+
+<img src="https://img.shields.io/badge/Flutter-143D56?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android-143D56?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/ESP32-143D56?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 IoT"/>
+<img src="https://img.shields.io/badge/Arduino-143D56?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+
+### Cloud and developer tools
+
+<img src="https://img.shields.io/badge/Google_Cloud-143D56?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/AWS-143D56?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-143D56?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-143D56?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-143D56?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-143D56?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Vercel-143D56?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-143D56?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Bolt.new-143D56?style=flat-square&logo=lightning&logoColor=white" alt="Bolt.new"/>
+<img src="https://img.shields.io/badge/Emergent-143D56?style=flat-square&logo=openai&logoColor=white" alt="Emergent"/>
+
+## Achievements & Milestones
 
 | Milestone | Context & Impact |
 |---|---|
@@ -273,9 +157,7 @@ A Flutter disaster-response platform combining SOS reports, tactical maps, AI gu
 | ☁️ **Google Cloud Skill Badges** | Earned official Google Cloud skill badges spanning cloud infrastructure, model hosting, and generative AI. |
 | 🏅 **Mr. Fresher Recognition** | Recognized as Mr. Fresher for excellence in communication, campus engagement, and creative presentation. |
 
----
-
-## 🧭 Leadership & Community
+## Leadership & Community
 
 <div align="center">
 <table>
@@ -296,21 +178,52 @@ A Flutter disaster-response platform combining SOS reports, tactical maps, AI gu
 - 🎪 **Event Handling & Management @ Technexus Community**: Volunteer lead coordinating developer workshops, tech events, and community-building meetups.
 - ⚡ **Startup Builder @ Nexstep Network**: Core co-developer collaborating on zero-to-one startup MVPs and product execution.
 
----
+<a id="content-creation"></a>
 
-## 🗺️ Current Focus & Roadmap
+## Content Creation Based on Technology
 
-```text
-🟢 ACTIVE NOW  → Building production-ready AI applications, Agentic AI & cloud infrastructure
-🟡 UP NEXT     → Deepening expertise in distributed systems, advanced cloud architecture & microservices
-🔵 LONG-TERM   → Scaling ForMa ventures, autonomous multi-agent systems & high-impact products
-```
+<div align="center">
 
----
+<a href="https://www.instagram.com/codewithjeru?vrfl=c2FueHo3M2d3OG1v">
+  <img src="https://img.shields.io/badge/Instagram-@codewithjeru-143D56?style=flat-square&logo=instagram&logoColor=white" alt="Follow codewithjeru on Instagram"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@Tech2007-g5m">
+  <img src="https://img.shields.io/badge/YouTube-Tech2007-143D56?style=flat-square&logo=youtube&logoColor=white" alt="Subscribe to Tech2007 on YouTube"/>
+</a>
 
-## 🤝 Let's Connect & Collaborate
+</div>
+
+I create technology-focused content on **Instagram (@codewithjeru)** and **YouTube (Tech2007)**, sharing my learning journey, software builds, and experiments. Drawing on my work in AI and software development, I aim to make technical ideas easier to understand and encourage others to explore, learn, and build alongside me.
+
+**Do like, support, and follow our channels!** Follow on Instagram and subscribe on YouTube to join the journey.
+
+## Current Focus & Roadmap
+
+- **Active now** · Building production-ready AI applications, Agentic AI & cloud infrastructure
+- **Up next** · Deepening expertise in distributed systems, advanced cloud architecture & microservices
+- **Long-term** · Scaling ForMa ventures, autonomous multi-agent systems & high-impact products
+
+## GitHub Analytics
+
+### Most Used Languages
+
+<div align="center">
+
+<a href="https://github.com/ANTOJERRIN">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&layout=compact&bg_color=0f172a&title_color=83eaff&text_color=94a3b8&border_color=1e293b" alt="Top Languages Used"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANTOJERRIN&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+## Connect & Collaborate
 
 I'm actively open to:
+
 - 💼 **Internship Opportunities** (AI/ML, Full-Stack, Cloud Computing)
 - 🏁 **Hackathon & Tech Event Collaborations**
 - 🤖 **AI & Full-Stack Product Engineering**
@@ -319,20 +232,14 @@ I'm actively open to:
 
 <div align="center">
 
-<a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/></a>
+<a href="https://jerrin-ai.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-143D56?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/jerrin-anto-74a836392"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-143D56?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
+<a href="mailto:jerrinanto18@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-143D56?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode_Profile-0F172A?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/antojerrin/"><img src="https://img.shields.io/badge/LeetCode_Profile-143D56?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<br/><br/>
-
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1c2541,100:0b132b&height=120&section=footer" alt="Footer Banner"/>
-
-<br/>
-<sub>Designed with precision • Built for production • Powered by Anto & ForMa</sub>
+<sub>Designed with precision • Built for production • Powered by Anto &amp; ForMa</sub>
 
 </div>

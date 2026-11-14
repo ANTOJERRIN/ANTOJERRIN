@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="150" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="water" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+      <stop stop-color="#091529"/>
+      <stop offset=".54" stop-color="#103350"/>
+      <stop offset="1" stop-color="#096777"/>
+    </linearGradient>
+    <linearGradient id="wave" x2="100%" y2="25%">
+      <stop stop-color="#185780" stop-opacity=".35"/>
+      <stop offset=".55" stop-color="#51aaff" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#74f4ec" stop-opacity=".55"/>
+    </linearGradient>
+    <radialGradient id="shine" cx=".78" cy="0" r=".85">
+      <stop stop-color="#9be8ff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#9be8ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="258" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="url(#water)"/>
+    <rect width="1200" height="260" fill="url(#shine)"/>
+    <path d="M-45 211C143 125 270 242 442 228S715 201 832 128 1052 47 1240 91V270H-45Z" fill="url(#wave)" stroke="#a1e9ff" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M-45 240C118 160 282 269 485 244S708 231 853 173 1053 88 1236 131V276H-45Z" fill="#81f5ee" fill-opacity=".15" stroke="#b9fffa" stroke-opacity=".4" stroke-width="1.5"/>
+    <path d="M-40 267C137 204 263 283 480 263S758 247 896 215 1100 138 1235 162" fill="none" stroke="#b9fffa" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="26" fill="none" stroke="#91e5ff" stroke-opacity=".48" stroke-width="2"/>
+</svg>

@@ -37,12 +37,9 @@ I helped build the data verification workflow for an ESP32 water-quality monitor
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td><a href="https://github.com/ANTOJERRIN"><img width="440" src="https://streak-stats.demolab.com/?user=ANTOJERRIN&amp;card_width=440&amp;card_height=205&amp;border_radius=6&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=D8DEE4&amp;ring=C45100&amp;fire=C45100&amp;currStreakLabel=A33F00&amp;disable_animations=true&amp;date_format=M+j%5B%2C+Y%5D" alt="GitHub contribution total, current streak, and longest streak"></a></td>
-    <td><a href="https://github.com/ANTOJERRIN?tab=repositories"><img width="440" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&amp;layout=compact&amp;langs_count=8&amp;card_width=440&amp;theme=github_dark&amp;hide_title=true" alt="GitHub language breakdown by detected code bytes"></a></td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/ANTOJERRIN"><img width="620" src="https://streak-stats.demolab.com/?user=ANTOJERRIN&amp;card_width=620&amp;card_height=225&amp;border_radius=6&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=D8DEE4&amp;ring=C45100&amp;fire=C45100&amp;currStreakLabel=A33F00&amp;disable_animations=true&amp;date_format=M+j%5B%2C+Y%5D" alt="GitHub contribution total, current streak, and longest streak"></a>
+</p>
 
 ## Languages and Tools
 
@@ -105,6 +102,12 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
   <img height="24" src="https://img.shields.io/badge/GitHub%20CLI-2D3748?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub CLI">
   <img height="24" src="https://img.shields.io/badge/Codex%20CLI-59458F?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex CLI">
   <img height="24" src="https://img.shields.io/badge/NumPy-275A86?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/ANTOJERRIN?tab=repositories"><img width="440" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&amp;layout=compact&amp;langs_count=8&amp;card_width=440&amp;theme=github_dark&amp;hide_title=true" alt="GitHub language breakdown by detected code bytes"></a>
 </p>
 
 ## Featured Projects

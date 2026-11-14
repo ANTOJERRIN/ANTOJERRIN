@@ -1,41 +1,138 @@
 <h1 align="center">Hi, I’m Jerrin Anto 👋</h1>
 
-<p align="center"><strong>Computer Science undergraduate in AI &amp; ML · Python and full-stack developer · Founder of ForMa</strong></p>
+<h3 align="center">I’m a passionate developer from India 🇮🇳</h3>
 
-- 🎓 **Education** · B.Tech in Computer Science (AI & ML) at REVA University, Bengaluru. Expected graduation in August 2029.
-- 🛠️ **Current work** · I organize developer workshops and build with students through [ForMa](https://forma-9c8t.onrender.com/). I also help validate product ideas and build MVPs as a core developer at Nexstep Network.
-- 💼 **Internships** · AI and Python development at GIGNI, generative AI workflows and API integration at HiDevs, and AI-assisted web and mobile prototypes at Scaler School of Technology.
-- 💻 **Projects** · [AQUA-ETHIC](https://github.com/ANTOJERRIN/AQUA-ETHIC) verifies water-quality sensor readings. [Lifeline](https://github.com/ANTOJERRIN/LIFELINE-) extracts information from uploaded medical reports. DriveX handles lesson bookings with scheduling overlap checks, and Workify helps organizations host workshops.
-- 🌱 **Open source and cloud** · Contributor to GirlScript Summer of Code and Open Source Connect. Earned Google Cloud skill badges in API Gateway, Cloud Storage, and speech and language APIs.
-- 🎥 **CodeWithJeru** · I publish tutorials and project walkthroughs on AI, software engineering, cloud, and Linux. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
-- 📄 **Find me** · [Résumé (PDF)](https://drive.google.com/file/d/1p2h3YbaqEVjeBf-1VQ3y7pBRkurKsJ3d/view?usp=sharing) · [Portfolio](https://jerrin-ai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jerrin-anto-74a836392/) · [LeetCode](https://leetcode.com/u/antojerrin/) · [Email](mailto:ajant2007@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=ANTOJERRIN&style=flat-square&color=0284c7&label=Profile+views)
+
+- 🌱 **Currently learning · Forward-deployed engineering**\
+  I’m studying how cloud services scale when AI workloads spike and how that affects REST API performance.
+
+- 🎥 **Tech Content Creation · CodeWithJeru**\
+  I share tutorials and project walkthroughs on AI, software engineering, cloud, and Linux. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
+
+- 🛠️ **Founder · ForMa**\
+  I founded [ForMa](https://forma-9c8t.onrender.com/) to help students build software together and run developer workshops.
+
+- 🚀 **Startup Builder · Nexstep Network**\
+  At Nexstep Network, I help define requirements, validate ideas, and build MVPs.
+
+- 💼 **Internships**\
+  I worked on AI and Python development at GIGNI, generative AI workflows and API integration at HiDevs, and AI-assisted web and mobile prototypes at Scaler School of Technology.
+
+- 🔗 **Find me**\
+  [Résumé (PDF)](https://drive.google.com/file/d/1p2h3YbaqEVjeBf-1VQ3y7pBRkurKsJ3d/view?usp=sharing) · [Portfolio](https://jerrin-ai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jerrin-anto-74a836392/) · [LeetCode](https://leetcode.com/u/antojerrin/) · [Email](mailto:ajant2007@gmail.com)
+
+- 🎓 **Education**\
+  I study Computer Science (AI & ML) at REVA University in Bengaluru and expect to graduate in August 2029.
+
+<br>
+
+**Project spotlight · [AQUA-ETHIC](https://github.com/ANTOJERRIN/AQUA-ETHIC)**\
+I helped build the data verification workflow for an ESP32 water-quality monitoring prototype. Our four-person team reached the DECODE SIH National Grand Finale as a top-50 finalist.
+
+<br>
+
+[![Explore more about me](https://img.shields.io/badge/More_about_me-Explore_%E2%86%92-205A98?style=for-the-badge&logo=readthedocs&logoColor=white)](./ABOUT.md)\
+[See my achievements, open-source work, and internship experience](./ABOUT.md).
 
 ## GitHub Stats
 
-[![GitHub contribution stats for ANTOJERRIN, including total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=ANTOJERRIN&card_width=442&card_height=172&border_radius=6&background=FFFFFF&border=D0D7DE&stroke=D8DEE4&ring=C45100&fire=C45100&currStreakLabel=A33F00&disable_animations=true&date_format=M+j%5B%2C+Y%5D)](https://github.com/ANTOJERRIN)
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Contributions and streaks</th>
+      <th scope="col">Most-used languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ANTOJERRIN"><img width="360" src="https://streak-stats.demolab.com/?user=ANTOJERRIN&amp;card_width=442&amp;card_height=172&amp;border_radius=6&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=D8DEE4&amp;ring=C45100&amp;fire=C45100&amp;currStreakLabel=A33F00&amp;disable_animations=true&amp;date_format=M+j%5B%2C+Y%5D" alt="GitHub contribution total, current streak, and longest streak"></a></td>
+      <td><a href="https://github.com/ANTOJERRIN?tab=repositories"><img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&amp;layout=compact&amp;langs_count=8&amp;card_width=360&amp;theme=github_dark&amp;hide_title=true" alt="GitHub language breakdown by detected code bytes"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+The language card shows the share of detected code bytes among the eight languages displayed, using public repositories I own and excluding forks. [See my repositories](https://github.com/ANTOJERRIN?tab=repositories).
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-285A83?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8B422E?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-435B83?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-786018?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20599D?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-235E78?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-195F91?style=flat-square&logo=flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5944A9?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-376B40?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-364254?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-096F64?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-385979?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-305A85?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-345C80?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1C674E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-845016?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2E5F9B?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8C3F31?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-343B47?style=flat-square&logo=github&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-654391?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-4B498B?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-89374A?style=flat-square&logo=espressif&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-474B68?style=flat-square&logo=solidity&logoColor=white)
+My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and PostgreSQL**.
+
+<p>
+  <img height="24" src="https://img.shields.io/badge/Java-AF401A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+  <img height="24" src="https://img.shields.io/badge/C-13598C?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C">
+  <img height="24" src="https://img.shields.io/badge/C%2B%2B-075A96?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img height="24" src="https://img.shields.io/badge/React-17627B?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
+  <img height="24" src="https://img.shields.io/badge/JavaScript-4A3D18?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
+  <img height="24" src="https://img.shields.io/badge/TypeScript-235FA5?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img height="24" src="https://img.shields.io/badge/Python-255678?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python">
+  <img height="24" src="https://img.shields.io/badge/Node.js-326B33?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img height="24" src="https://img.shields.io/badge/FastAPI-087B72?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img height="24" src="https://img.shields.io/badge/REST%20APIs-B52F36?style=flat-square" alt="REST APIs">
+  <img height="24" src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+  <img height="24" src="https://img.shields.io/badge/Git-B73924?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img height="24" src="https://img.shields.io/badge/GitLab-9A3C1F?style=flat-square&amp;logo=gitlab&amp;logoColor=FCA326" alt="GitLab">
+  <img height="24" src="https://img.shields.io/badge/OCR-615396?style=flat-square" alt="OCR">
+  <img height="24" src="https://img.shields.io/badge/ESP32-9C2741?style=flat-square&amp;logo=espressif&amp;logoColor=white" alt="ESP32">
+  <img height="24" src="https://img.shields.io/badge/Arduino-08767D?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="Arduino">
+  <img height="24" src="https://img.shields.io/badge/Supabase-296B51?style=flat-square&amp;logo=supabase&amp;logoColor=71E5A9" alt="Supabase">
+  <img height="24" src="https://img.shields.io/badge/Firebase-805409?style=flat-square&amp;logo=firebase&amp;logoColor=FFCC54" alt="Firebase">
+  <img height="24" src="https://img.shields.io/badge/Flutter-12649A?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+  <img height="24" src="https://img.shields.io/badge/Android-28704F?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Android">
+  <img height="24" src="https://img.shields.io/badge/SDKs-3B5576?style=flat-square" alt="SDKs">
+  <img height="24" src="https://img.shields.io/badge/Google%20Cloud-265DAB?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
+  <img height="24" src="https://img.shields.io/badge/AWS-885017?style=flat-square" alt="AWS">
+  <img height="24" src="https://img.shields.io/badge/PostgreSQL-305F92?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img height="24" src="https://img.shields.io/badge/MongoDB-286F42?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img height="24" src="https://img.shields.io/badge/Lovable-A62B65?style=flat-square" alt="Lovable">
+  <img height="24" src="https://img.shields.io/badge/Codex-6551A8?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex">
+  <img height="24" src="https://img.shields.io/badge/Claude%20Code-9D4A34?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
+  <img height="24" src="https://img.shields.io/badge/Grok-292C33?style=flat-square" alt="Grok">
+  <img height="24" src="https://img.shields.io/badge/Gemini-4456AE?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+  <img height="24" src="https://img.shields.io/badge/Perplexity-156B70?style=flat-square&amp;logo=perplexity&amp;logoColor=white" alt="Perplexity">
+  <img height="24" src="https://img.shields.io/badge/Render-653AAB?style=flat-square&amp;logo=render&amp;logoColor=white" alt="Render">
+  <img height="24" src="https://img.shields.io/badge/Vercel-1F232A?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
+  <img height="24" src="https://img.shields.io/badge/MySQL-246784?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <img height="24" src="https://img.shields.io/badge/System%20Design-663A8C?style=flat-square" alt="System Design">
+  <img height="24" src="https://img.shields.io/badge/pandas-543B89?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas">
+  <img height="24" src="https://img.shields.io/badge/Matplotlib-256B74?style=flat-square" alt="Matplotlib">
+  <img height="24" src="https://img.shields.io/badge/Higgsfield-653A7C?style=flat-square" alt="Higgsfield">
+  <img height="24" src="https://img.shields.io/badge/Copilot-4C4A97?style=flat-square&amp;logo=githubcopilot&amp;logoColor=white" alt="Copilot">
+  <img height="24" src="https://img.shields.io/badge/Microsoft%20365-AB3F22?style=flat-square" alt="Microsoft 365">
+  <img height="24" src="https://img.shields.io/badge/Google%20Omni-5452A1?style=flat-square" alt="Google Omni">
+  <img height="24" src="https://img.shields.io/badge/Google%20AI%20Studio-285CA4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google AI Studio">
+  <img height="24" src="https://img.shields.io/badge/Hugging%20Face-805409?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD65D" alt="Hugging Face">
+  <img height="24" src="https://img.shields.io/badge/ElevenLabs-292C33?style=flat-square&amp;logo=elevenlabs&amp;logoColor=white" alt="ElevenLabs">
+  <img height="24" src="https://img.shields.io/badge/Bolt.ai-3261A8?style=flat-square" alt="Bolt.ai">
+  <img height="24" src="https://img.shields.io/badge/Manus.ai-4B5060?style=flat-square" alt="Manus.ai">
+  <img height="24" src="https://img.shields.io/badge/Notion-262930?style=flat-square&amp;logo=notion&amp;logoColor=white" alt="Notion">
+  <img height="24" src="https://img.shields.io/badge/Markdown%20%28MD%29-343841?style=flat-square&amp;logo=markdown&amp;logoColor=white" alt="Markdown (MD)">
+  <img height="24" src="https://img.shields.io/badge/Netlify-116D6C?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Netlify">
+  <img height="24" src="https://img.shields.io/badge/Dart-126697?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart">
+  <img height="24" src="https://img.shields.io/badge/HTML-AD4325?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML">
+  <img height="24" src="https://img.shields.io/badge/CSS-5140A9?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS">
+  <img height="24" src="https://img.shields.io/badge/Tailwind%20CSS-116A83?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+  <img height="24" src="https://img.shields.io/badge/GitHub%20CLI-2D3748?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub CLI">
+  <img height="24" src="https://img.shields.io/badge/Codex%20CLI-59458F?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex CLI">
+  <img height="24" src="https://img.shields.io/badge/NumPy-275A86?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+</p>
+
+## Featured Projects
+
+<p>
+  <a href="./PROJECTS.md"><img height="56" src="https://img.shields.io/badge/Explore_Projects-186A55?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore featured projects"></a>
+</p>
+
+[Browse all six projects, with implementation details and source code](./PROJECTS.md).
+
+## Support Me
+
+### Follow CodeWithJeru for tutorials and project walkthroughs
+
+<p>
+  <a href="https://www.instagram.com/codewithjeru/"><img height="56" src="https://img.shields.io/badge/Follow_on_Instagram-C42C5A?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow CodeWithJeru on Instagram"></a>
+  <a href="https://www.youtube.com/@Tech2007-g5m"><img height="56" src="https://img.shields.io/badge/Subscribe_on_YouTube-BD2026?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Subscribe to CodeWithJeru on YouTube"></a>
+  <img height="56" src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="Buy Me a Coffee">
+</p>
+
+Coffee support link coming soon.

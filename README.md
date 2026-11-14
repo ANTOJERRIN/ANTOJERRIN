@@ -89,9 +89,9 @@ A disaster-response app for SOS reporting and coordination. Nearby responders ca
 
 ## GitHub stats
 
-[![GitHub contribution stats for ANTOJERRIN, including total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=ANTOJERRIN&border_radius=10&background=0C1421&border=263D59&stroke=263D59&ring=79CBFF&fire=B4EE78&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=79CBFF&sideLabels=D7E4F2&dates=A5B9CF&card_width=442&card_height=172&date_format=M+j%5B%2C+Y%5D&disable_animations=true)](https://github.com/ANTOJERRIN#js-contribution-activity)
+[![GitHub contribution stats for ANTOJERRIN, including total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=ANTOJERRIN&border_radius=10&background=0C1421&border=263D59&stroke=263D59&ring=79CBFF&fire=B4EE78&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=79CBFF&sideLabels=D7E4F2&dates=A5B9CF&card_width=442&card_height=172&date_format=M+j%5B%2C+Y%5D&disable_animations=true)](https://github.com/ANTOJERRIN)
 
-[View contribution activity on GitHub](https://github.com/ANTOJERRIN#js-contribution-activity)
+[View my GitHub profile](https://github.com/ANTOJERRIN)
 
 ## Connect
 

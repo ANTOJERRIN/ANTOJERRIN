@@ -2,9 +2,14 @@
   <img src="./assets/profile-hero.webp" width="100%" alt="A Jerrin Anto at AWS Future Builders Connect, beneath the blue neon Build sign">
 </p>
 
-I’m **A Jerrin Anto**, a B.Tech CSE (AI & ML) student and founder of **ForMa**. I build AI applications and cloud-backed tools, contribute to open source, and share what I learn through CodeWithJeru.
+I’m **A Jerrin Anto**, a B.Tech CSE (AI & ML) student and founder of **ForMa**. I build AI applications and cloud-backed tools, with projects focused on data integrity, offline communication, and access control.
 
 **[View résumé](https://drive.google.com/file/d/1p2h3YbaqEVjeBf-1VQ3y7pBRkurKsJ3d/view?usp=sharing)** · [Portfolio](https://jerrin-ai.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jerrin-anto-74a836392/)
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/engineering-focus-mobile.svg">
+  <img src="./assets/engineering-focus.svg" width="100%" alt="Engineering focus: verifiable sensor data in AQUA-ETHIC and offline coordination in ResQ. Current build: ForMa, where we build products together and review each other’s code.">
+</picture>
 
 ## Featured projects
 
@@ -41,12 +46,52 @@ A disaster-response app for SOS reporting and coordination. Nearby responders ca
 - Gained internship experience through **Scaler School of Technology’s YIIC**, **Hi Devs**, and **Gigni**.
 - Participated in **seven hackathons** and earned **Google Cloud skill badges**.
 
-## Tech stack
+## Languages and tools
 
-- **AI & ML** · `Python` `PyTorch` `scikit-learn` `OpenCV`
-- **Web & backend** · `FastAPI` `Next.js` `React` `Node.js` `Supabase`
-- **Cloud & developer tools** · `Google Cloud` `AWS` `Linux` `Git`
-- **Mobile & IoT** · `Flutter` `Firebase` `ESP32` `Arduino`
+### Languages
+
+![Python](https://img.shields.io/badge/Python-285A83?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20599D?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-435B83?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-314981?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B422E?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-12637D?style=flat-square&logo=dart&logoColor=white)
+
+### AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-A44030?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-85510D?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4B498B?style=flat-square&logo=opencv&logoColor=white)
+
+### Web & data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-096F64?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-27323E?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-235E78?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-376B40?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-364254?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C674E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-345C80?style=flat-square&logo=sqlite&logoColor=white)
+
+### Cloud & dev tools
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2E5F9B?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-8C4D12?style=flat-square)
+![Git](https://img.shields.io/badge/Git-8C3F31?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-635420?style=flat-square&logo=linux&logoColor=white)
+
+### Mobile & IoT
+
+![Flutter](https://img.shields.io/badge/Flutter-195F91?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-845016?style=flat-square&logo=firebase&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-89374A?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-146B72?style=flat-square&logo=arduino&logoColor=white)
+
+## GitHub stats
+
+[![GitHub contribution stats for ANTOJERRIN, including total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=ANTOJERRIN&border_radius=10&background=0C1421&border=263D59&stroke=263D59&ring=79CBFF&fire=B4EE78&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=79CBFF&sideLabels=D7E4F2&dates=A5B9CF&card_width=442&card_height=172&date_format=M+j%5B%2C+Y%5D&disable_animations=true)](https://github.com/ANTOJERRIN#js-contribution-activity)
+
+[View contribution activity on GitHub](https://github.com/ANTOJERRIN#js-contribution-activity)
 
 ## Connect
 

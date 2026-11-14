@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="244" viewBox="0 0 704 244" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus and current build</title>
+  <desc id="desc">Design for real constraints: verifiable data in AQUA-ETHIC, offline coordination in ResQ. At ForMa, I build products with a developer community and review code with peers.</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#122943"/>
+      <stop offset=".68" stop-color="#0C1421"/>
+    </linearGradient>
+    <pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".85" fill="#79CBFF" opacity=".19"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="703" height="243" rx="13" fill="url(#background)" stroke="#2B4561"/>
+  <rect x="1" y="1" width="702" height="242" rx="12" fill="url(#grid)"/>
+  <path d="M28 1h88" stroke="#79CBFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M123 1h23" stroke="#B4EE78" stroke-width="2" stroke-linecap="round"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">
+      <text x="28" y="40" fill="#8AD0FF">ENGINEERING FOCUS</text>
+    </g>
+    <text x="28" y="72" fill="#F0F6FC" font-size="25" font-weight="700">Design for real constraints</text>
+    <text x="28" y="100" fill="#BBCDE0" font-size="15">I build around the conditions the software</text>
+    <text x="28" y="121" fill="#BBCDE0" font-size="15">will face in use.</text>
+
+    <rect x="28" y="142" width="373" height="32" rx="6" fill="#15273A" stroke="#2B4561"/>
+    <circle cx="43" cy="158" r="3" fill="#79CBFF"/>
+    <text x="54" y="163" fill="#F0F6FC" font-size="13" font-weight="600">Verifiable sensor data</text>
+    <text x="388" y="163" text-anchor="end" fill="#B8CFE6" font-size="12">AQUA-ETHIC</text>
+
+    <rect x="28" y="181" width="373" height="32" rx="6" fill="#15273A" stroke="#2B4561"/>
+    <circle cx="43" cy="197" r="3" fill="#B4EE78"/>
+    <text x="54" y="202" fill="#F0F6FC" font-size="13" font-weight="600">Offline coordination</text>
+    <text x="388" y="202" text-anchor="end" fill="#B8CFE6" font-size="12">ResQ</text>
+
+    <rect x="425" y="40" width="251" height="173" rx="10" fill="#122035" stroke="#2B4561"/>
+    <text x="444" y="63" fill="#B4EE78" font-family="Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.2">CURRENT BUILD</text>
+    <text x="444" y="97" fill="#F0F6FC" font-size="25" font-weight="700">ForMa</text>
+    <text x="444" y="123" fill="#BBCDE0" font-size="15">Building products with a</text>
+    <text x="444" y="144" fill="#BBCDE0" font-size="15">developer community.</text>
+    <path d="M444 164h213" stroke="#304964"/>
+    <text x="444" y="189" fill="#D7E7F7" font-size="13">Collaborative builds · Peer review</text>
+  </g>
+</svg>

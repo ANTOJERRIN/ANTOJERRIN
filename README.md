@@ -102,6 +102,15 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
   <img height="28" src="https://img.shields.io/badge/GitHub%20CLI-2D3748?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub CLI">
   <img height="28" src="https://img.shields.io/badge/Codex%20CLI-59458F?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex CLI">
   <img height="28" src="https://img.shields.io/badge/NumPy-275A86?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+  <img height="28" src="https://img.shields.io/badge/WSL-245A8D?style=flat-square" alt="WSL">
+  <img height="28" src="https://img.shields.io/badge/Linux-30343B?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
+  <img height="28" src="https://img.shields.io/badge/Ubuntu-A33E20?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu">
+  <img height="28" src="https://img.shields.io/badge/Figma-713BB3?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma">
+  <img height="28" src="https://img.shields.io/badge/Google%20Stitch-355FA8?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google Stitch">
+  <img height="28" src="https://img.shields.io/badge/OpenCode-333740?style=flat-square" alt="OpenCode">
+  <img height="28" src="https://img.shields.io/badge/OpenDesign-654A91?style=flat-square" alt="OpenDesign">
+  <img height="28" src="https://img.shields.io/badge/Gemini%20Nano%20Banana-4456AE?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini Nano Banana">
+  <img height="28" src="https://img.shields.io/badge/Google%20Workspace-256244?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google Workspace">
 </p>
 
 <br>

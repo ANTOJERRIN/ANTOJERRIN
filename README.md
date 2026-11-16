@@ -37,9 +37,11 @@ I helped build the data verification workflow for an ESP32 water-quality monitor
 
 ## GitHub Stats
 
+<!-- contribution-stats:start -->
 <p>
   <a href="https://github.com/ANTOJERRIN"><img width="620" src="https://streak-stats.demolab.com/?user=ANTOJERRIN&amp;card_width=620&amp;card_height=225&amp;border_radius=6&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=D8DEE4&amp;ring=C45100&amp;fire=C45100&amp;currStreakLabel=A33F00&amp;disable_animations=true&amp;date_format=M+j%5B%2C+Y%5D" alt="GitHub contribution total, current streak, and longest streak"></a>
 </p>
+<!-- contribution-stats:end -->
 
 ## Languages and Tools
 
@@ -115,9 +117,11 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
 
 <br>
 
+<!-- language-stats:start -->
 <p>
   <a href="https://github.com/ANTOJERRIN?tab=repositories"><img width="440" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ANTOJERRIN&amp;layout=compact&amp;langs_count=8&amp;card_width=440&amp;theme=github_dark&amp;hide_title=true" alt="GitHub language breakdown by detected code bytes"></a>
 </p>
+<!-- language-stats:end -->
 
 ## Featured Projects
 

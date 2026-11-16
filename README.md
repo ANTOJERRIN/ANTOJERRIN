@@ -39,11 +39,7 @@ I helped build the data verification workflow for an ESP32 water-quality monitor
 
 <!-- contribution-stats:start -->
 
-| Contributions | Current streak | Longest streak |
-| ---: | ---: | ---: |
-| 730 | 32 days | 32 days |
-
-*GitHub contribution calendar for the past year. Last refreshed 16 Nov 2026 (UTC).*
+<a href="https://github.com/ANTOJERRIN"><img width="620" src="./assets/github-contribution-stats.svg" alt="730 contributions in the past year, 32 day current streak, 32 day longest streak"></a>
 
 <!-- contribution-stats:end -->
 
@@ -123,9 +119,7 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
 
 <!-- language-stats:start -->
 
-**Top languages by detected code bytes** · Public, owned, non-fork repositories
-
-**Python** 84.2% · **Jupyter Notebook** 6.1% · **C** 4.1% · **TypeScript** 2.1% · **JavaScript** 1.1% · **Tcl** 1.0% · **C++** 0.3% · **Dart** 0.2%
+<a href="https://github.com/ANTOJERRIN?tab=repositories"><img width="440" src="./assets/github-top-languages.svg" alt="Top languages by detected code bytes in public, owned, non-fork repositories"></a>
 
 <!-- language-stats:end -->
 

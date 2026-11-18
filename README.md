@@ -45,7 +45,7 @@ I helped build the data verification workflow for an ESP32 water-quality monitor
 
 ## Languages and Tools
 
-My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and PostgreSQL**.
+My project work centers on **Python, FastAPI, React, TypeScript, and Supabase**.
 
 <p>
   <img height="28" src="https://img.shields.io/badge/Java-AF401A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
@@ -57,7 +57,6 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
   <img height="28" src="https://img.shields.io/badge/Python-255678?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python">
   <img height="28" src="https://img.shields.io/badge/Node.js-326B33?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
   <img height="28" src="https://img.shields.io/badge/FastAPI-087B72?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-  <img height="28" src="https://img.shields.io/badge/REST%20APIs-B52F36?style=flat-square" alt="REST APIs">
   <img height="28" src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
   <img height="28" src="https://img.shields.io/badge/Git-B73924?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
   <img height="28" src="https://img.shields.io/badge/GitLab-9A3C1F?style=flat-square&amp;logo=gitlab&amp;logoColor=FCA326" alt="GitLab">
@@ -71,8 +70,6 @@ My project work centers on **Python, FastAPI, React, TypeScript, Supabase, and P
   <img height="28" src="https://img.shields.io/badge/SDKs-3B5576?style=flat-square" alt="SDKs">
   <img height="28" src="https://img.shields.io/badge/Google%20Cloud-265DAB?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
   <img height="28" src="https://img.shields.io/badge/AWS-885017?style=flat-square" alt="AWS">
-  <img height="28" src="https://img.shields.io/badge/PostgreSQL-305F92?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-  <img height="28" src="https://img.shields.io/badge/MongoDB-286F42?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
   <img height="28" src="https://img.shields.io/badge/Lovable-A62B65?style=flat-square" alt="Lovable">
   <img height="28" src="https://img.shields.io/badge/Codex-6551A8?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="Codex">
   <img height="28" src="https://img.shields.io/badge/Claude%20Code-9D4A34?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code">

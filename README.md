@@ -39,7 +39,7 @@ I helped build the data verification workflow for an ESP32 water-quality monitor
 
 <!-- contribution-stats:start -->
 
-<a href="https://github.com/ANTOJERRIN"><img width="620" src="./assets/github-contribution-stats.svg" alt="734 contributions in the past year, 33 day current streak, 33 day longest streak"></a>
+<a href="https://github.com/ANTOJERRIN"><img width="620" src="./assets/github-contribution-stats.svg" alt="735 contributions in the past year, 33 day current streak, 33 day longest streak"></a>
 
 <!-- contribution-stats:end -->
 

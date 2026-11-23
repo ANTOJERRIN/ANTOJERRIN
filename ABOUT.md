@@ -2,7 +2,7 @@
 
 [← Back to my GitHub README](./README.md)
 
-I’m Jerrin Anto, a Computer Science undergraduate at REVA University in Bengaluru, specializing in AI and Machine Learning. I build with Python and full-stack tools, contribute to open source, and run ForMa, a student technology community.
+I’m Jerrin Anto, a Computer Science undergraduate at REVA University in Bengaluru, specializing in AI and Machine Learning. I build with Python and full-stack tools, contribute to open source, and serve as Chairperson of ForMae, a student-driven technology community.
 
 ## Achievements and recognition
 
@@ -32,15 +32,16 @@ Built AI-assisted website and mobile prototypes through the Young Innovator Inte
 
 ## Leadership and community
 
-- **[ForMa](https://forma-9c8t.onrender.com/) · Founder** · I coordinate students from multiple colleges on projects, idea validation, and product development. I organize developer-tool workshops and introductory hackathons.
-- **Nexstep Network · Startup Builder and Core Developer** · I collaborate on product requirements, idea validation, and MVP development. I joined in June 2026 and took on core developer responsibilities in July.
+- **[ForMae](https://forma-9c8t.onrender.com/) · Chairperson** · November 2026–present. Previously Founder, October 2025–November 2026. ForMae helps learners become builders through collaboration, practical learning, and real-world projects. As Founder, I coordinated students from multiple colleges on projects, idea validation, and product development, and organized developer-tool workshops and introductory hackathons.
+- **Nexstep Network · Founder’s Office** · November 2026–present. Previously Startup Builder, August–November 2026, and Core Developer, July–November 2026, working on product requirements, idea validation, and MVP development.
 - **TechNexus Community · Volunteer** · I supported developer workshops, meetups, and community engagement from May to October 2026.
-- **CodeWithJeru · Technical Content Creator** · I research, script, edit, and publish beginner-friendly tutorials and walkthroughs. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
+- **CodeWithJeru · Content Creator** · January 2026–present. I research, script, edit, and publish educational content on software engineering, AI, cloud computing, Linux, automation, and developer workflows. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
 
 ## Open source and certifications
 
 - **GirlScript Summer of Code** · Contributor, May–August 2026.
 - **Open Source Connect** · Contributor since October 2026.
+- **Social Winter of Code (SWOC) · Contributor** · November 2026–present.
 - **Google Cloud Skill Badges** · Get Started with API Gateway, Analyze Speech and Language with Google APIs, and Get Started with Cloud Storage.
 
 ## Education

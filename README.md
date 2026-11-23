@@ -8,13 +8,13 @@
   I’m studying how cloud services scale when AI workloads spike and how that affects REST API performance.
 
 - 🎥 **Tech Content Creation · CodeWithJeru**\
-  I share tutorials and project walkthroughs on AI, software engineering, cloud, and Linux. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
+  I share tutorials and project walkthroughs on AI, software engineering, cloud, Linux, automation, and developer workflows. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
 
-- 🛠️ **Founder · ForMa**\
-  I founded [ForMa](https://forma-9c8t.onrender.com/) to help students build software together and run developer workshops.
+- 🛠️ **Chairperson · ForMae**\
+  I serve as Chairperson of [ForMae](https://forma-9c8t.onrender.com/) (November 2026–present), a technology community focused on collaboration, practical learning, and real-world projects. I previously served as Founder from October 2025 to November 2026.
 
-- 🚀 **Startup Builder · Nexstep Network**\
-  At Nexstep Network, I help define requirements, validate ideas, and build MVPs.
+- 🚀 **Founder’s Office · Nexstep Network**\
+  I’m part of the Founder’s Office at Nexstep Network (November 2026–present), following my roles as Startup Builder (August–November 2026) and Core Developer (July–November 2026).
 
 - 💼 **Internships**\
   I worked on AI and Python development at GIGNI, generative AI workflows and API integration at HiDevs, and AI-assisted web and mobile prototypes at Scaler School of Technology.

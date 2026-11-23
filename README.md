@@ -10,8 +10,8 @@
 - 🎥 **Tech Content Creation · CodeWithJeru**\
   I share tutorials and project walkthroughs on AI, software engineering, cloud, Linux, automation, and developer workflows. [Instagram](https://www.instagram.com/codewithjeru/) · [YouTube](https://www.youtube.com/@Tech2007-g5m)
 
-- 🛠️ **Chairperson · ForMae**\
-  I serve as Chairperson of [ForMae](https://forma-9c8t.onrender.com/) (November 2026–present), a technology community focused on collaboration, practical learning, and real-world projects. I previously served as Founder from October 2025 to November 2026.
+- 🤝 **Contributor · Social Winter of Code (SWOC)**\
+  I’m currently a contributor at Social Winter of Code (SWOC), a part-time, remote role I began in November 2026.
 
 - 🚀 **Founder’s Office · Nexstep Network**\
   I’m part of the Founder’s Office at Nexstep Network (November 2026–present), following my roles as Startup Builder (August–November 2026) and Core Developer (July–November 2026).
@@ -24,6 +24,9 @@
 
 - 🎓 **Education**\
   I study Computer Science (AI & ML) at REVA University in Bengaluru and expect to graduate in August 2029.
+
+- 🛠️ **Chairperson · ForMae**\
+  I serve as Chairperson of [ForMae](https://forma-9c8t.onrender.com/) (November 2026–present), a technology community focused on collaboration, practical learning, and real-world projects. I previously served as Founder from October 2025 to November 2026.
 
 <br>
 
